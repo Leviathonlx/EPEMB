@@ -1,0 +1,108 @@
+culture\culture_names. This is used to turn the name Adam, for example, into the different versions of Adam such as if a Greek turned himself into a Levantine. 
+
+
+For mass fixing localization
+
+https://forum.paradoxplaza.com/forum/threads/guide-automate-name-localization-with-a-text-editor.1435190/
+
+- New Cultures -
+
+I generally used M&T in EU4 for a broad idea of language spread though that is a culture map of 1356 which is the end of CK's timeframe. Main focus was to break up some of the larger cultures such as Occitan and French but there are exceptions to this. Rus' for example is fully correct for this time period as the cultural subdivisions of east slavic cultures did not truly start to form till EU4's time period.
+
+I generally made families that controlled a region for a long period of time whichever culture the area they own is. House Savoy, for example, was marked French in CK3 and HIP but likely originated from Magdeburg all the way in Saxony but my guess is they were marked French since they maybe spoke French (though in that case most of western Europe would be 'French') or maybe it was based on the House Savoy of EU4's time period. It made more sense to make the family Arpitan than French.
+
+
+Cultures marked with whether they are from HIP or what parent culture I used as a basis. Names are exactly as they are in the culture file. Localization is based on cultural names to match community title project.
+
+My edits are generally at the top of a file.
+
+
+Due to the changes in the upcoming DLC I removed a lot of these cultures. In some cases I went overboard with adding cultures anyway and some I'll bring back with whatever way Paradox will handle mixed cultures. In most cases HIP transfers will be the ones kept.
+
+Culture group change:
+
+Occitan and all its dialects are now in the Iberian group instead of Frankish
+Assyrian in own cultural group
+
+Cultures:
+
+arberian - HIP (Albanian) - Done - Kepe
+kasogi - HIP - Done - Keep
+crimean_gothic - HIP - Done - Keep
+udi - HIP - Done - Keep
+adhari - HIP (Azari) - Done - Keep
+caucasian_avar - HIP - Done - Keep
+khorasani - HIP - Done - Keep
+livonian - HIP - Done - Keep
+arpitan - HIP - Done - Keep
+ligurian - HIP - Done - Keep
+venetian - HIP - Done - Keep
+carantanian - HIP - Done - Keep
+low_frankish - HIP - Done - Keep
+masmuda - HIP (Tachelit) - Done - Keep
+sanhaja - HIP (Taqbaylit) - Done - Keep
+tagelmust - HIP (Aznag) - Done - Keep
+coptic - HIP - Done - Keep
+qufs - HIP - Done - Keep
+brahui - HIP - Done - Keep
+gothic - HIP - Done - Keep
+anglo_norse - HIP (anglonorse) - Done - Keep
+norseirish - HIP (norsegaelic) - Done - Keep
+sicilian_arabic - HIP - Done - Keep
+szekely - HIP (Hungarian) - Done - Keep
+dalmatian - HIP - Done - Keep
+hijazi - HIP - Done - Keep
+icelandic - HIP - Done  - Keep
+thuringian - Franconian - Done - Keep
+
+pontic - Greek - Done - Remove. Wasn't much a thing till the very end of CK's time period
+gascon - Occitan - Done - Keep. Was distinct enough
+provencal - Occitan - Done - Remove. Maybe add back as mixed culture
+poitevin - French - Done - Remove. I went overboard with French dialects
+angevin - French - Done - Remove. I went overboard with French dialects
+bourguignon - French - Keep. Likely distinct enough in time period
+lorrain - French - Done - Remove. I went overboard with French dialects
+picard - French - Done - Keep
+walloon - Dutch - Done - Keep
+limburgisch - Dutch - Done - Keep
+vlaemsch - Dutch - Done - Keep
+ripuarisch - Franconian - Done - Remove
+alemannic - Swabian - Done - Remove
+sorbian - Polabian - Done - Keep
+lutici - Polabian - Done - Keep
+silesian - Polish. Based on German Silesian not modern Silesian - Done - Remove. Good example of a culture to add as mixed culture
+elbian - Saxon - Done - Remove. Same as above
+novgorod - Russian - Done - Keep
+friulian - Venetian - Done - Keep
+piedmont - Cisalpine - Done - Keep
+tuscan - Umbrian/Italian - Done - Keep
+neapolitan - 'Lombard' - Done - Keep
+maltese - Sicilian Arabic - Replaces Sicilian_Arabic - Done - Keep
+romansh - Cisalpine - Done - Keep
+omani - bedouin - Done - Keep
+bahraini - bedouin - Done - Keep
+iraqi - levantine - Done - Keep
+guanche - Barani - Done - Keep
+tarafit - Barani - Done - Keep
+tamazight - Barani - Done - Keep
+tuareg - Butr - Done - Keep
+malayalam - Tamil - Done - Keep
+
+--
+
+Don't exist till 1300
+
+crimean - Cuman - Done
+tatars - Oghuz - Done
+chagatai - Tajik - Done
+kazani - Bolghar - Done
+mishar - Kipchak - Done
+turkmeni - Oghuz - Done
+hazara - Khorasani - Done
+
+
+To do:
+
+
+
+Mostly avoiding cultural groups at the moment since CK3 handles most events/decisions either by region or cultural group plus it causes massive compatbility issues with other mods like Community Flavor Pack and Community Title Project. New cultural groups also just make more negative opinion malus' more rampant for little else being gained unlike cultures which are used to define dynasties, names, and character appearances.
