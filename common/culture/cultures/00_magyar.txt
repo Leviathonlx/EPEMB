@@ -232,7 +232,7 @@
 			7= european_caucasian_dark_4
 			7 = european_caucasian_dark_5
 		}
-				
+		}	
 	mogyer = {
 		graphical_cultures = {
 			ugro_permian_group_coa_gfx
