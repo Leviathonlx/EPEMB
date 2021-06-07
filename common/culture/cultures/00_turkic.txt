@@ -28,10 +28,14 @@
 	#Mongol influenced Turks
 	
 	tatars = {	# Umbrella term for turks with mongol influence. Better than a mongol super culture spreading from Mongolia to Romania. Based on Oghuz
-		graphical_cultures = {
-			oghuz_coa_gfx
-		}
-		
+	graphical_cultures = {
+		turkic_group_coa_gfx
+		oghuz_coa_gfx
+		indian_building_gfx
+		steppe_building_gfx
+		seljuk_clothing_gfx
+		mongol_unit_gfx
+	}
 		color = { 195 140 75 }
 	
 		character_modifier = {
@@ -319,6 +323,16 @@
 	}
 	
 	crimean = { #Based on Cuman
+	
+	graphical_cultures = {
+		turkic_group_coa_gfx
+		steppe_coa_gfx
+		indian_building_gfx
+		steppe_building_gfx
+		cuman_clothing_gfx
+		mongol_unit_gfx
+	}
+	
 		color = { 155 135 145 }
 	
 		character_modifier = {
@@ -423,6 +437,14 @@
 	
 	chagatai = { #Based on Tajik
 		
+		graphical_cultures = {
+			iranian_group_coa_gfx
+			mena_building_gfx
+			iranian_clothing_gfx
+			iranian_unit_gfx
+		}
+
+
 		color = { 195 200 200 }
 
 		cadet_dynasty_names = {
@@ -525,6 +547,16 @@
 	}
 	
 	kazani = { #Based on Bolghar
+	
+	graphical_cultures = {
+		turkic_group_coa_gfx
+		steppe_coa_gfx
+		indian_building_gfx
+		steppe_building_gfx
+		turkish_clothing_gfx
+		mongol_unit_gfx
+	}	
+	
 		color = { 150 140 175 }
 		
 		character_modifier = {
@@ -647,6 +679,14 @@
 	}
 	
 	mishar = { #Based on Kipchak
+	graphical_cultures = {
+		turkic_group_coa_gfx
+		steppe_coa_gfx
+		indian_building_gfx
+		steppe_building_gfx
+		cuman_clothing_gfx
+		mongol_unit_gfx
+	}
 		color = { 130 130 190 }
 	
 		character_modifier = {
@@ -824,8 +864,13 @@
 	
 	turkmeni = { # Based on Oghuz
 		graphical_cultures = {
-			oghuz_coa_gfx
-		}
+		turkic_group_coa_gfx
+		oghuz_coa_gfx
+		indian_building_gfx
+		steppe_building_gfx
+		seljuk_clothing_gfx
+		mongol_unit_gfx
+	}
 		
 		color = { 240 240 120 }
 	

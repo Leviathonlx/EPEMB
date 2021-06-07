@@ -1,11 +1,4 @@
 ﻿iranian_group = {
-					   
-					   
-				   
-				   
-			   
-  
-
 	mercenary_names = {
 		{ name = "mercenary_company_ghilman" coat_of_arms = "mc_ghilman" }
 		{ name = "mercenary_company_warriors_of_zaranj" }
@@ -13,7 +6,12 @@
 	}
 
 	hazara = { #Based on Khorasani. Mongol//Turk/Persian mix
-		
+		graphical_cultures = {
+			iranian_group_coa_gfx
+			mena_building_gfx
+			iranian_clothing_gfx
+			iranian_unit_gfx
+		}
 		color = { 110 190 230 }
 
 		cadet_dynasty_names = {
@@ -268,7 +266,12 @@
 	}
 	
 	lurish = {
-		
+		graphical_cultures = {
+			iranian_group_coa_gfx
+			mena_building_gfx
+			iranian_clothing_gfx
+			iranian_unit_gfx
+		}
 		color = { 0.55 0.55 0.1 }
 
 		cadet_dynasty_names = {
@@ -497,7 +500,12 @@
 	}
 	
 	adhari = { #Azari
-		
+		graphical_cultures = {
+			iranian_group_coa_gfx
+			mena_building_gfx
+			iranian_clothing_gfx
+			iranian_unit_gfx
+		}
 		color = { 0.6 0.6 0.5 }
 
 		cadet_dynasty_names = {
@@ -740,7 +748,12 @@
 	}
 	
 	khorasani = {
-		
+		graphical_cultures = {
+			iranian_group_coa_gfx
+			mena_building_gfx
+			iranian_clothing_gfx
+			iranian_unit_gfx
+		}
 		color = { 0.60 0.70 0.45 }
 
 		cadet_dynasty_names = {
@@ -996,7 +1009,12 @@
 		
 		
 	qufs = {
-		
+		graphical_cultures = {
+			iranian_group_coa_gfx
+			mena_building_gfx
+			iranian_clothing_gfx
+			iranian_unit_gfx
+		}
 		color = { 0.8 0.6 0.03 }
 		
 		cadet_dynasty_names = {
