@@ -858,6 +858,13 @@
 			4 = mid_east_arabic_23
 			4 = mid_east_arabic_24
 			4 = mid_east_arabic_25
+			4 = european_med_west_1
+			4 = european_med_west_2
+			4 = european_med_central_1
+			4 = european_med_east_1
+			4 = european_med_east_2
+			4 = european_med_west_africa_1
+			4 = european_med_central_africa_1
 		}
 
 		pat_grf_name_chance = 60
@@ -2146,6 +2153,13 @@
 			4 = mid_east_arabic_23
 			4 = mid_east_arabic_24
 			4 = mid_east_arabic_25
+			4 = european_med_west_1
+			4 = european_med_west_2
+			4 = european_med_central_1
+			4 = european_med_east_1
+			4 = european_med_east_2
+			4 = european_med_west_africa_1
+			4 = european_med_central_africa_1
 		}
 
 		mercenary_names = {

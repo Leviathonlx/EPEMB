@@ -10,7 +10,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 		color = { 110 190 230 }
 
@@ -270,7 +270,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 		color = { 0.55 0.55 0.1 }
 
@@ -504,7 +504,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 		color = { 0.6 0.6 0.5 }
 
@@ -752,7 +752,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 		color = { 0.60 0.70 0.45 }
 
@@ -1013,7 +1013,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 		color = { 0.8 0.6 0.03 }
 		
@@ -1120,7 +1120,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 
 		mercenary_names = {
@@ -1766,7 +1766,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 
 		color = { 0.4 0.4 0.05 }
@@ -1874,7 +1874,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			han_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 		
 		secondary_event_pictures = bedouin_arabic
@@ -1961,7 +1961,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 		
 		color = { 0.75 0.85 0.35 }
@@ -2075,7 +2075,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 
 		color = { 0.85 0.75 0.45 }
@@ -2156,7 +2156,7 @@
 			iranian_group_coa_gfx
 			mena_building_gfx
 			iranian_clothing_gfx
-			iranian_unit_gfx
+			mena_unit_gfx
 		}
 
 		color = { 0.7 0.75 0.35 }
