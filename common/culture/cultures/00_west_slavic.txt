@@ -13,7 +13,9 @@
 	}
 
 	lutici = { #Lutici. Another of the major tribal confederations
-		
+		graphical_cultures = {
+			west_slav_clothing_gfx		
+		}	
 		color = { 0.6 0.7 0.7 }
 
 		cadet_dynasty_names = {
@@ -90,7 +92,9 @@
 	}
 	
 	sorbian = { #A group that was separate from the polabians. 
-		
+		graphical_cultures = {
+			west_slav_clothing_gfx		
+		}	
 		color = { 0.5 0.6 0.8 }
 
 		cadet_dynasty_names = {
