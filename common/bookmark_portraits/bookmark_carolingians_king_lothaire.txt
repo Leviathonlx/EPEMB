@@ -2,7 +2,7 @@
 # History database id:144998
 bookmark_carolingians_king_lothaire={
 	type=male
-	id=7921
+	id=8071
 	age=0.310000
 	genes={ 		hair_color={ 111 127 68 238 }
  		skin_color={ 68 83 72 84 }
@@ -96,7 +96,7 @@ bookmark_carolingians_king_lothaire={
  		expression_other={ "cheek_wrinkles_both_01" 229 "cheek_wrinkles_left_01" 127 }
  		complexion={ "complexion_6" 230 "complexion_2" 89 }
  		gene_height={ "normal_height" 117 "normal_height" 135 }
- 		gene_bs_body_type={ "body_fat_head_fat_low" 113 "body_fat_head_fat_full" 125 }
+ 		gene_bs_body_type={ "body_fat_head_fat_low" 109 "body_fat_head_fat_full" 125 }
  		gene_bs_body_shape={ "body_shape_average_clothed" 122 "body_shape_triangle_full" 18 }
  		gene_bs_bust={ "bust_clothes" 186 "bust_shape_1_full" 159 }
  		gene_age={ "old_3" 126 "old_4" 5 }
@@ -108,11 +108,21 @@ bookmark_carolingians_king_lothaire={
  		eye_accessory={ "normal_eyes" 95 "normal_eyes" 95 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 150 "normal_eyelashes" 150 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "french_royalty" 213 "no_cloak" 0 }
- 		clothes={ "french_high_nobility_clothes" 140 "most_clothes" 0 }
- 		headgear={ "french_royalty" 138 "no_headgear" 0 }
- 		legwear={ "western_common_legwear" 114 "no_legwear" 0 }
+ 		cloaks={ "frankish_royalty" 180 "no_cloak" 0 }
+ 		clothes={ "french_high_nobility_clothes" 136 "most_clothes" 0 }
+ 		cosmetics_lipcolor={ "european_1" 204 "iranian_1" 0 }
+ 		cosmetics_blush={ "european_1" 149 "iranian_1" 0 }
+ 		headgear_2={ "karling_royalty" 80 "no_headgear" 0 }
+ 		legwear={ "western_common_legwear" 204 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 10 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 25 "all_hairstyles" 0 }
  }

@@ -4,7 +4,7 @@
 		iberian_group_coa_gfx
 		western_coa_gfx
 		mediterranean_building_gfx
-		western_clothing_gfx
+		iberia_clothing_gfx
 		western_unit_gfx
 	}
 
@@ -198,17 +198,45 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
+			5 = european_caucasian_french_1
+			5 = european_caucasian_french_2
+			5 = european_caucasian_french_3
+			5 = european_caucasian_french_4
+			5 = european_caucasian_french_5
+			5 = european_caucasian_french_6
+			5 = european_caucasian_french_7
+			5 = european_caucasian_french_8
+			5 = european_caucasian_french_9
+			5 = european_caucasian_french_10
+			5 = european_caucasian_french_11
+			5 = european_caucasian_french_12
 			5 = european_french_blond_1
 			5 = european_french_blond_2
+			5 = european_french_blond_3
+			5 = european_french_blond_4
 			5 = european_french_ginger_1
-			10 = european_french_brown_1
-			10 = european_french_brown_2
-			10 = european_french_dark_1
-			10 = european_med_cisalpine_1
-			10 = european_med_cisalpine_2
-			5 = european_med_cisalpine_3
-			5 = european_med_cisalpine_4
-			10 = european_french_dark_2
+			5 = european_french_brown_1
+			5 = european_french_brown_2
+			5 = european_french_brown_3
+			5 = european_french_brown_4
+			5 = european_french_dark_1
+			5 = european_french_dark_2
+			5 = european_french_dark_3
+			5 = european_french_dark_4
+			4 = european_french_misc_1
+			4 = european_french_misc_2
+			7 = european_french_misc_3
+			7 = european_med_cisalpine_1
+			7 = european_med_cisalpine_2
+			7 = european_med_cisalpine_3
+			7 = european_med_cisalpine_4
+			7 = european_med_cisalpine_5
+			7 = european_med_cisalpine_6
+			7 = european_med_cisalpine_7
+			7 = european_med_cisalpine_8
+			7 = european_med_cisalpine_9
+			5 = european_med_cisalpine_5
+			5 = european_french_dark_2
 			5 = european_med_west_1
 			5 = european_med_west_2
 		}
@@ -407,17 +435,45 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
+			5 = european_caucasian_french_1
+			5 = european_caucasian_french_2
+			5 = european_caucasian_french_3
+			5 = european_caucasian_french_4
+			5 = european_caucasian_french_5
+			5 = european_caucasian_french_6
+			5 = european_caucasian_french_7
+			5 = european_caucasian_french_8
+			5 = european_caucasian_french_9
+			5 = european_caucasian_french_10
+			5 = european_caucasian_french_11
+			5 = european_caucasian_french_12
 			5 = european_french_blond_1
 			5 = european_french_blond_2
+			5 = european_french_blond_3
+			5 = european_french_blond_4
 			5 = european_french_ginger_1
-			10 = european_french_brown_1
-			10 = european_french_brown_2
-			10 = european_french_dark_1
-			10 = european_med_cisalpine_1
-			10 = european_med_cisalpine_2
-			5 = european_med_cisalpine_3
-			5 = european_med_cisalpine_4
-			10 = european_french_dark_2
+			5 = european_french_brown_1
+			5 = european_french_brown_2
+			5 = european_french_brown_3
+			5 = european_french_brown_4
+			5 = european_french_dark_1
+			5 = european_french_dark_2
+			5 = european_french_dark_3
+			5 = european_french_dark_4
+			4 = european_french_misc_1
+			4 = european_french_misc_2
+			7 = european_french_misc_3
+			7 = european_med_cisalpine_1
+			7 = european_med_cisalpine_2
+			7 = european_med_cisalpine_3
+			7 = european_med_cisalpine_4
+			7 = european_med_cisalpine_5
+			7 = european_med_cisalpine_6
+			7 = european_med_cisalpine_7
+			7 = european_med_cisalpine_8
+			7 = european_med_cisalpine_9
+			5 = european_med_cisalpine_5
+			5 = european_french_dark_2
 			5 = european_med_west_1
 			5 = european_med_west_2
 		}
@@ -616,17 +672,45 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
+			5 = european_caucasian_french_1
+			5 = european_caucasian_french_2
+			5 = european_caucasian_french_3
+			5 = european_caucasian_french_4
+			5 = european_caucasian_french_5
+			5 = european_caucasian_french_6
+			5 = european_caucasian_french_7
+			5 = european_caucasian_french_8
+			5 = european_caucasian_french_9
+			5 = european_caucasian_french_10
+			5 = european_caucasian_french_11
+			5 = european_caucasian_french_12
 			5 = european_french_blond_1
 			5 = european_french_blond_2
+			5 = european_french_blond_3
+			5 = european_french_blond_4
 			5 = european_french_ginger_1
-			10 = european_french_brown_1
-			10 = european_french_brown_2
-			10 = european_french_dark_1
-			10 = european_med_cisalpine_1
-			10 = european_med_cisalpine_2
-			5 = european_med_cisalpine_3
-			5 = european_med_cisalpine_4
-			10 = european_french_dark_2
+			5 = european_french_brown_1
+			5 = european_french_brown_2
+			5 = european_french_brown_3
+			5 = european_french_brown_4
+			5 = european_french_dark_1
+			5 = european_french_dark_2
+			5 = european_french_dark_3
+			5 = european_french_dark_4
+			4 = european_french_misc_1
+			4 = european_french_misc_2
+			7 = european_french_misc_3
+			7 = european_med_cisalpine_1
+			7 = european_med_cisalpine_2
+			7 = european_med_cisalpine_3
+			7 = european_med_cisalpine_4
+			7 = european_med_cisalpine_5
+			7 = european_med_cisalpine_6
+			7 = european_med_cisalpine_7
+			7 = european_med_cisalpine_8
+			7 = european_med_cisalpine_9
+			5 = european_med_cisalpine_5
+			5 = european_french_dark_2
 			5 = european_med_west_1
 			5 = european_med_west_2
 		}
@@ -723,9 +807,43 @@
 		mother_name_chance = 20
 
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
-
+		
 		mercenary_names = {
 			{ name = "mercenary_company_nafarroako_konpainia" coat_of_arms = "mc_nafarroako_konpainia" }
 		}
@@ -1129,7 +1247,41 @@
 		mother_name_chance = 40
 
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 
 		mercenary_names = {
@@ -1328,7 +1480,41 @@
 		mother_name_chance = 25
 
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 
 		mercenary_names = {
@@ -1488,7 +1674,41 @@
 		mother_name_chance = 15
 		
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 
 		mercenary_names = {
@@ -1589,7 +1809,41 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 	}
 
@@ -1729,7 +1983,41 @@
 		mother_name_chance = 40
 
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 	}
 
@@ -1916,7 +2204,41 @@
 		mother_name_chance = 40
 
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 	}
 
@@ -2044,7 +2366,41 @@
 		mother_name_chance = 40
 
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 	}
 
@@ -2117,7 +2473,41 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			10 = mediterranean
+			2 = european_med_iberian_1
+			2 = european_med_iberian_2
+			2 = european_med_iberian_3
+			2 = european_med_iberian_4
+			2 = european_med_iberian_5
+			2 = european_med_iberian_6
+			2 = european_med_iberian_7
+			2 = european_med_iberian_8
+			2 = european_med_iberian_9
+			2 = european_med_iberian_2
+			2 = european_med_iberian_11
+			2 = european_med_iberian_12
+			2 = european_med_iberian_13
+			2 = european_med_iberian_14
+			2 = european_med_iberian_15
+			2 = european_med_iberian_16
+			2 = european_med_iberian_17
+			2 = european_med_iberian_18
+			2 = european_med_iberian_19
+			2 = european_med_iberian_20
+			2 = european_med_iberian_21
+			2 = european_med_iberian_22
+			2 = european_med_iberian_23
+			2 = european_med_iberian_24
+			2 = european_med_iberian_25
+			2 = european_med_iberian_26
+			2 = european_med_iberian_27
+			2 = european_med_iberian_28
+			2 = european_med_iberian_29
+			2 = european_med_iberian_30
+			2 = european_med_iberian_31
+			2 = european_med_iberian_32
+			2 = european_med_west_1
+			2 = european_med_west_2
+			2 = european_med_central_1
 		}
 	}
 }

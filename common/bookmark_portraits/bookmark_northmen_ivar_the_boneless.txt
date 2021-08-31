@@ -2,7 +2,7 @@
 # History database id:163111
 bookmark_northmen_ivar_the_boneless={
 	type=male
-	id=6951
+	id=7100
 	age=0.460000
 	genes={ 		hair_color={ 150 100 234 99 }
  		skin_color={ 47 77 45 76 }
@@ -96,8 +96,8 @@ bookmark_northmen_ivar_the_boneless={
  		expression_other={ "cheek_wrinkles_left_01" 0 "cheek_wrinkles_left_01" 0 }
  		complexion={ "complexion_5" 133 "complexion_5" 111 }
  		gene_height={ "normal_height" 137 "normal_height" 114 }
- 		gene_bs_body_type={ "body_fat_head_fat_medium" 101 "body_fat_head_fat_medium" 127 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 216 "body_shape_pear_half" 48 }
+ 		gene_bs_body_type={ "body_fat_head_fat_medium" 106 "body_fat_head_fat_medium" 127 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 175 "body_shape_pear_half" 48 }
  		gene_bs_bust={ "bust_clothes" 113 "bust_shape_3_half" 106 }
  		gene_age={ "old_4" 102 "old_1" 51 }
  		gene_eyebrows_shape={ "avg_spacing_lower_thickness" 127 "avg_spacing_low_thickness" 154 }
@@ -108,13 +108,21 @@ bookmark_northmen_ivar_the_boneless={
  		eye_accessory={ "normal_eyes" 40 "normal_eyes" 40 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 42 "normal_eyelashes" 42 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
  		gene_one_legged={ "no_left_leg" 255 "no_left_leg" 0 }
  		special_legwear={ "special_wooden_leg" 127 "special_wooden_leg" 0 }
- 		cloaks={ "fp1_cloak" 218 "no_cloak" 0 }
- 		clothes={ "fp1_high_nobility_clothes" 207 "most_clothes" 0 }
- 		headgear={ "norse_high_nobility" 150 "no_headgear" 0 }
- 		legwear={ "fp1_common_legwear" 178 "no_legwear" 0 }
+ 		cloaks={ "fp1_cloak" 152 "no_cloak" 0 }
+ 		clothes={ "fp1_high_nobility_clothes" 32 "most_clothes" 0 }
+ 		headgear={ "norse_high_nobility" 101 "no_headgear" 0 }
+ 		legwear={ "fp1_common_legwear" 150 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 122 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 158 "all_hairstyles" 0 }
  }

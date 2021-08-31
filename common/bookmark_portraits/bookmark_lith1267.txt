@@ -2,7 +2,7 @@
 # History database id:125303
 bookmark_lith1267={
 	type=male
-	id=43003
+	id=43295
 	age=0.440000
 	genes={ 		hair_color={ 80 112 80 112 }
  		skin_color={ 75 83 75 83 }
@@ -95,9 +95,9 @@ bookmark_lith1267={
  		expression_forehead_wrinkles={ "forehead_wrinkles_01" 17 "forehead_wrinkles_01" 17 }
  		expression_other={ "cheek_wrinkles_both_01" 51 "cheek_wrinkles_both_01" 0 }
  		complexion={ "complexion_2" 120 "complexion_2" 120 }
- 		gene_height={ "normal_height" 129 "normal_height" 125 }
- 		gene_bs_body_type={ "body_fat_head_fat_medium" 125 "body_fat_head_fat_medium" 120 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 68 "body_shape_rectangle_half" 13 }
+ 		gene_height={ "normal_height" 139 "normal_height" 125 }
+ 		gene_bs_body_type={ "body_fat_head_fat_medium" 134 "body_fat_head_fat_medium" 120 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 98 "body_shape_rectangle_half" 13 }
  		gene_bs_bust={ "bust_clothes" 153 "bust_default" 153 }
  		gene_age={ "old_beauty_1" 36 "old_2" 77 }
  		gene_eyebrows_shape={ "avg_spacing_avg_thickness" 188 "avg_spacing_avg_thickness" 180 }
@@ -108,11 +108,19 @@ bookmark_lith1267={
  		eye_accessory={ "normal_eyes" 11 "normal_eyes" 11 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 224 "normal_eyelashes" 224 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "balto_finnic_cloak_high_nobility" 246 "no_cloak" 0 }
- 		clothes={ "balto_finnic_high_nobility_clothes" 16 "most_clothes" 0 }
- 		headgear={ "balto_finnic_royalty" 35 "no_headgear" 0 }
- 		legwear={ "fp1_common_legwear" 122 "no_legwear" 0 }
+ 		cloaks={ "balto_finnic_cloak_high_nobility" 92 "no_cloak" 0 }
+ 		clothes={ "balto_finnic_high_nobility_clothes" 4 "most_clothes" 0 }
+ 		headgear={ "balto_finnic_royalty" 179 "no_headgear" 0 }
+ 		legwear={ "fp1_common_legwear" 41 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 28 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 96 "all_hairstyles" 0 }
  }

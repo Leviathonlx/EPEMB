@@ -2,7 +2,7 @@
 # History database id:101515
 bookmark_hastings_denmark={
 	type=male
-	id=20041
+	id=20241
 	age=0.470000
 	genes={ 		hair_color={ 165 115 165 115 }
  		skin_color={ 110 96 110 96 }
@@ -96,8 +96,8 @@ bookmark_hastings_denmark={
  		expression_other={ "cheek_wrinkles_left_01" 0 "cheek_wrinkles_left_01" 0 }
  		complexion={ "complexion_7" 78 "complexion_7" 78 }
  		gene_height={ "normal_height" 159 "normal_height" 133 }
- 		gene_bs_body_type={ "body_fat_head_fat_low" 117 "body_fat_head_fat_low" 123 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 95 "body_shape_pear_full" 0 }
+ 		gene_bs_body_type={ "body_fat_head_fat_low" 131 "body_fat_head_fat_low" 123 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 146 "body_shape_pear_full" 0 }
  		gene_bs_bust={ "bust_clothes" 133 "bust_shape_3_full" 133 }
  		gene_age={ "old_1" 82 "old_1" 82 }
  		gene_eyebrows_shape={ "avg_spacing_avg_thickness" 170 "avg_spacing_avg_thickness" 170 }
@@ -108,11 +108,19 @@ bookmark_hastings_denmark={
  		eye_accessory={ "normal_eyes_no_shadow" 255 "normal_eyes" 60 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 198 "normal_eyelashes" 198 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "fp1_cloak_ruler" 42 "no_cloak" 0 }
- 		clothes={ "fp1_high_nobility_clothes" 235 "most_clothes" 0 }
- 		headgear={ "fp1_royalty" 16 "no_headgear" 0 }
- 		legwear={ "fp1_common_legwear" 5 "no_legwear" 0 }
+ 		cloaks={ "fp1_cloak_ruler" 221 "no_cloak" 0 }
+ 		clothes={ "northern_high_nobility_clothes" 219 "most_clothes" 0 }
+ 		headgear={ "western_royalty" 104 "no_headgear" 0 }
+ 		legwear={ "fp1_common_legwear" 205 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 114 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 173 "all_hairstyles" 0 }
  }

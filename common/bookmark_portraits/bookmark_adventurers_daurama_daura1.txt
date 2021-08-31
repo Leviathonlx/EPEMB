@@ -2,7 +2,7 @@
 # History database id:251187
 bookmark_adventurers_daurama_daura1={
 	type=female
-	id=8592
+	id=8743
 	age=0.250000
 	genes={ 		hair_color={ 49 234 49 234 }
  		skin_color={ 141 213 141 213 }
@@ -96,8 +96,8 @@ bookmark_adventurers_daurama_daura1={
  		expression_other={ "cheek_wrinkles_left_01" 0 "cheek_wrinkles_left_01" 0 }
  		complexion={ "complexion_2" 154 "complexion_2" 23 }
  		gene_height={ "normal_height" 130 "normal_height" 130 }
- 		gene_bs_body_type={ "body_fat_head_fat_low" 147 "body_fat_head_fat_low" 150 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 81 "body_shape_triangle_full" 0 }
+ 		gene_bs_body_type={ "body_fat_head_fat_low" 139 "body_fat_head_fat_low" 150 }
+ 		gene_bs_body_shape={ "body_shape_average" 81 "body_shape_triangle_full" 0 }
  		gene_bs_bust={ "bust_clothes" 135 "bust_shape_4_half" 135 }
  		gene_age={ "old_2" 244 "old_2" 244 }
  		gene_eyebrows_shape={ "far_spacing_high_thickness" 181 "far_spacing_high_thickness" 166 }
@@ -108,9 +108,18 @@ bookmark_adventurers_daurama_daura1={
  		eye_accessory={ "normal_eyes" 58 "normal_eyes" 58 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 218 "normal_eyelashes" 218 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		clothes={ "sub_saharan_low_nobility_clothes" 128 "most_clothes" 0 }
- 		legwear={ "mena_common_legwear" 118 "no_legwear" 0 }
+ 		clothes={ "central_african_low_nobility_clothes" 86 "most_clothes" 0 }
+ 		headgear_2={ "central_african_low_nobility" 201 "no_headgear" 0 }
+ 		legwear={ "african_common_legwear" 138 "no_legwear" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 107 "all_hairstyles" 0 }
  }
 	entity={ 3942081117 3942081117 }

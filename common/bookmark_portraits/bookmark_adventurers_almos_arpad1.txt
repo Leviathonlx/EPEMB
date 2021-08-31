@@ -2,7 +2,7 @@
 # History database id:159137
 bookmark_adventurers_almos_arpad1={
 	type=male
-	id=6841
+	id=6988
 	age=0.470000
 	genes={ 		hair_color={ 32 235 66 229 }
  		skin_color={ 169 98 172 93 }
@@ -96,8 +96,8 @@ bookmark_adventurers_almos_arpad1={
  		expression_other={ "cheek_wrinkles_left_01" 0 "cheek_wrinkles_left_01" 0 }
  		complexion={ "complexion_1" 206 "complexion_1" 150 }
  		gene_height={ "normal_height" 119 "normal_height" 129 }
- 		gene_bs_body_type={ "body_fat_head_fat_medium" 119 "body_fat_head_fat_full" 126 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 124 "body_shape_apple_half" 0 }
+ 		gene_bs_body_type={ "body_fat_head_fat_medium" 91 "body_fat_head_fat_full" 126 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 246 "body_shape_apple_half" 0 }
  		gene_bs_bust={ "bust_clothes" 190 "bust_shape_4_full" 92 }
  		gene_age={ "old_1" 136 "old_2" 167 }
  		gene_eyebrows_shape={ "avg_spacing_high_thickness" 179 "far_spacing_avg_thickness" 148 }
@@ -108,10 +108,18 @@ bookmark_adventurers_almos_arpad1={
  		eye_accessory={ "normal_eyes" 152 "normal_eyes" 152 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "asian_eyelashes" 134 "asian_eyelashes" 134 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		clothes={ "steppe_high_nobility_clothes" 23 "most_clothes" 0 }
- 		headgear={ "steppe_royalty" 145 "no_headgear" 0 }
- 		legwear={ "mena_common_legwear" 52 "no_legwear" 0 }
+ 		clothes={ "steppe_high_nobility_clothes" 69 "most_clothes" 0 }
+ 		headgear={ "steppe_royalty" 111 "no_headgear" 0 }
+ 		legwear={ "mena_common_legwear" 158 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 155 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 181 "all_hairstyles" 0 }
  }

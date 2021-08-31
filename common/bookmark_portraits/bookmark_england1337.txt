@@ -2,7 +2,7 @@
 # History database id:454500
 bookmark_england1337={
 	type=male
-	id=52852
+	id=53202
 	age=0.240000
 	genes={ 		hair_color={ 45 153 78 90 }
  		skin_color={ 57 54 68 64 }
@@ -95,9 +95,9 @@ bookmark_england1337={
  		expression_forehead_wrinkles={ "forehead_wrinkles_03" 147 "forehead_wrinkles_03" 147 }
  		expression_other={ "cheek_wrinkles_both_01" 0 "cheek_wrinkles_both_01" 0 }
  		complexion={ "complexion_1" 228 "complexion_2" 136 }
- 		gene_height={ "normal_height" 164 "normal_height" 105 }
- 		gene_bs_body_type={ "body_fat_head_fat_low" 121 "body_fat_head_fat_medium" 124 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 163 "body_shape_triangle_full" 11 }
+ 		gene_height={ "normal_height" 170 "normal_height" 149 }
+ 		gene_bs_body_type={ "body_fat_head_fat_low" 126 "body_fat_head_fat_medium" 124 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 82 "body_shape_triangle_full" 11 }
  		gene_bs_bust={ "bust_clothes" 153 "bust_shape_3_full" 153 }
  		gene_age={ "old_beauty_1" 55 "old_beauty_1" 55 }
  		gene_eyebrows_shape={ "avg_spacing_lower_thickness" 162 "close_spacing_low_thickness" 222 }
@@ -108,11 +108,21 @@ bookmark_england1337={
  		eye_accessory={ "normal_eyes" 76 "normal_eyes" 76 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 132 "normal_eyelashes" 132 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "western_royalty" 51 "no_cloak" 0 }
- 		clothes={ "western_royalty_clothes" 97 "most_clothes" 0 }
- 		headgear={ "western_royalty" 96 "no_headgear" 0 }
- 		legwear={ "western_common_legwear" 51 "no_legwear" 0 }
+ 		cloaks={ "western_royalty_ermine" 95 "no_cloak" 0 }
+ 		clothes={ "western_royalty_clothes" 75 "most_clothes" 0 }
+ 		cosmetics_lipcolor={ "european_1" 171 "iranian_1" 0 }
+ 		cosmetics_blush={ "european_1" 254 "iranian_1" 0 }
+ 		headgear={ "western_royalty" 132 "no_headgear" 0 }
+ 		legwear={ "western_common_legwear" 175 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 229 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 25 "all_hairstyles" 0 }
  }

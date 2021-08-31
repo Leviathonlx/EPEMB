@@ -2,7 +2,7 @@
 # History database id:476500
 bookmark_osman1337={
 	type=male
-	id=49566
+	id=49892
 	age=0.560000
 	genes={ 		hair_color={ 70 230 59 234 }
  		skin_color={ 155 92 191 91 }
@@ -95,9 +95,9 @@ bookmark_osman1337={
  		expression_forehead_wrinkles={ "forehead_wrinkles_01" 14 "forehead_wrinkles_01" 14 }
  		expression_other={ "cheek_wrinkles_both_01" 0 "cheek_wrinkles_both_01" 0 }
  		complexion={ "complexion_3" 180 "complexion_3" 137 }
- 		gene_height={ "normal_height" 137 "normal_height" 127 }
- 		gene_bs_body_type={ "body_fat_head_fat_low" 137 "body_fat_head_fat_low" 131 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 240 "body_shape_rectangle_half" 0 }
+ 		gene_height={ "normal_height" 145 "normal_height" 137 }
+ 		gene_bs_body_type={ "body_fat_head_fat_low" 122 "body_fat_head_fat_low" 131 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 128 "body_shape_rectangle_half" 0 }
  		gene_bs_bust={ "bust_clothes" 136 "bust_default" 102 }
  		gene_age={ "old_beauty_1" 55 "old_beauty_1" 55 }
  		gene_eyebrows_shape={ "avg_spacing_low_thickness" 229 "avg_spacing_avg_thickness" 229 }
@@ -108,14 +108,18 @@ bookmark_osman1337={
  		eye_accessory={ "normal_eyes" 73 "normal_eyes" 73 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "asian_eyelashes" 20 "asian_eyelashes" 20 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		clothes={ "seljuk_high_nobility_clothes" 214 "most_clothes" 0 }
- 		headgear={ "seljuk_royalty" 104 "no_headgear" 0 }
- 		cosmetics_eyeliner={ "iranian_1" 228 "iranian_1" 0 }
- 		cosmetics_eyeshadow={ "iranian_1" 197 "iranian_1" 0 }
- 		cosmetics_lipcolor={ "iranian_1" 106 "iranian_1" 0 }
- 		cosmetics_blush={ "iranian_1" 207 "iranian_1" 0 }
- 		legwear={ "mena_common_legwear" 104 "no_legwear" 0 }
+ 		clothes={ "seljuk_high_nobility_clothes" 254 "most_clothes" 0 }
+ 		headgear={ "seljuk_royalty" 127 "no_headgear" 0 }
+ 		legwear={ "mena_common_legwear" 11 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 68 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 51 "all_hairstyles" 0 }
  }

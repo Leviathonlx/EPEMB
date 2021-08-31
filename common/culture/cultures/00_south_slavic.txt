@@ -1,12 +1,12 @@
 ﻿south_slavic_group = {
 	
-	graphical_cultures = {
-		south_slavic_group_coa_gfx
-		western_coa_gfx
-		mediterranean_building_gfx
-		byzantine_clothing_gfx
-		eastern_unit_gfx
-	}
+	#graphical_cultures = {
+	#	south_slavic_group_coa_gfx
+	#	western_coa_gfx
+	#	mediterranean_building_gfx
+	#	byzantine_clothing_gfx
+	#	eastern_unit_gfx
+	#}
 
 	mercenary_names = {
 		{ name = "mercenary_company_stratioti_of_place_1" }
@@ -15,7 +15,13 @@
 	}
 	
 	carantanian = {
-		
+		graphical_cultures = {
+		south_slavic_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		south_slav_clothing_gfx
+		eastern_unit_gfx
+	}	
 		color = { 0.5 0.2 0.3 }
 
 		cadet_dynasty_names = {
@@ -146,6 +152,13 @@
   
  
 	croatian = {
+	graphical_cultures = {
+		south_slavic_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		south_slav_clothing_gfx
+		eastern_unit_gfx
+	}	
 		
 		color = { 0.4 0.2 0.2 }
 
@@ -259,6 +272,13 @@
 	}
 
 	bosnian = {
+	graphical_cultures = {
+		south_slavic_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		south_slav_clothing_gfx
+		eastern_unit_gfx
+	}	
 		
 		color = { 0.3 0.1 0.1 }
 
@@ -361,7 +381,13 @@
 	}
 
 	serbian = {
-		
+	graphical_cultures = {
+		south_slavic_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		south_slav_clothing_gfx
+		eastern_unit_gfx
+	}	
 		color = {  0.36 0.1 0.04 }
 
 		cadet_dynasty_names = {
@@ -468,7 +494,13 @@
 	}
 	
 	bulgarian = {
-		
+	graphical_cultures = {
+		south_slavic_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		bulgarian_clothing_gfx
+		eastern_unit_gfx
+	}		 
 		color = { 0.7 0.5 0.5 }
 
 		cadet_dynasty_names = {

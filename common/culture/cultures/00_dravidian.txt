@@ -159,9 +159,21 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			40 = indian_dravidian_1
-			30 = indian_dravidian_2
-			30 = indian_dravidian_3
+			2 = indian_dravidian_1
+			2 = indian_dravidian_2
+			2 = indian_dravidian_3
+			2 = indian_dravidian_4
+			2 = indian_dravidian_5
+			2 = indian_dravidian_6
+			2 = indian_dravidian_7
+			2 = indian_dravidian_8
+			2 = indian_dravidian_9
+			2 = indian_dravidian_10
+			2 = indian_dravidian_11
+			2 = indian_dravidian_12
+			2 = indian_dravidian_13
+			2 = indian_dravidian_14
+			2 = indian_dravidian_15
 		}
 	}
 	
@@ -450,9 +462,21 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			40 = indian_dravidian_1
-			30 = indian_dravidian_2
-			30 = indian_dravidian_3
+			2 = indian_dravidian_1
+			2 = indian_dravidian_2
+			2 = indian_dravidian_3
+			2 = indian_dravidian_4
+			2 = indian_dravidian_5
+			2 = indian_dravidian_6
+			2 = indian_dravidian_7
+			2 = indian_dravidian_8
+			2 = indian_dravidian_9
+			2 = indian_dravidian_10
+			2 = indian_dravidian_11
+			2 = indian_dravidian_12
+			2 = indian_dravidian_13
+			2 = indian_dravidian_14
+			2 = indian_dravidian_15
 		}
 	}
 	
@@ -741,16 +765,21 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			10 = iranian_baloch_1
-			10 = iranian_baloch_2
-			10 = iranian_baloch_3
-			10 = iranian_baloch_4
-			10 = iranian_baloch_5
-			10 = iranian_baloch_6
-			10 = iranian_baloch_7
-			10 = iranian_baloch_8
-			10 = iranian_baloch_9
-			10 = iranian_baloch_10
+			2 = indian_dravidian_1
+			2 = indian_dravidian_2
+			2 = indian_dravidian_3
+			2 = indian_dravidian_4
+			2 = indian_dravidian_5
+			2 = indian_dravidian_6
+			2 = indian_dravidian_7
+			2 = indian_dravidian_8
+			2 = indian_dravidian_9
+			2 = indian_dravidian_10
+			2 = indian_dravidian_11
+			2 = indian_dravidian_12
+			2 = indian_dravidian_13
+			2 = indian_dravidian_14
+			2 = indian_dravidian_15
 		}
 	}
 
@@ -1039,9 +1068,21 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			40 = indian_dravidian_1
-			30 = indian_dravidian_2
-			30 = indian_dravidian_3
+			2 = indian_dravidian_1
+			2 = indian_dravidian_2
+			2 = indian_dravidian_3
+			2 = indian_dravidian_4
+			2 = indian_dravidian_5
+			2 = indian_dravidian_6
+			2 = indian_dravidian_7
+			2 = indian_dravidian_8
+			2 = indian_dravidian_9
+			2 = indian_dravidian_10
+			2 = indian_dravidian_11
+			2 = indian_dravidian_12
+			2 = indian_dravidian_13
+			2 = indian_dravidian_14
+			2 = indian_dravidian_15
 		}
 	}
 	
@@ -1216,9 +1257,21 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			40 = indian_dravidian_1
-			30 = indian_dravidian_2
-			30 = indian_dravidian_3
+			2 = indian_dravidian_1
+			2 = indian_dravidian_2
+			2 = indian_dravidian_3
+			2 = indian_dravidian_4
+			2 = indian_dravidian_5
+			2 = indian_dravidian_6
+			2 = indian_dravidian_7
+			2 = indian_dravidian_8
+			2 = indian_dravidian_9
+			2 = indian_dravidian_10
+			2 = indian_dravidian_11
+			2 = indian_dravidian_12
+			2 = indian_dravidian_13
+			2 = indian_dravidian_14
+			2 = indian_dravidian_15
 		}
 	}
 	
@@ -1359,9 +1412,21 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			40 = indian_dravidian_1
-			30 = indian_dravidian_2
-			30 = indian_dravidian_3
+			2 = indian_dravidian_1
+			2 = indian_dravidian_2
+			2 = indian_dravidian_3
+			2 = indian_dravidian_4
+			2 = indian_dravidian_5
+			2 = indian_dravidian_6
+			2 = indian_dravidian_7
+			2 = indian_dravidian_8
+			2 = indian_dravidian_9
+			2 = indian_dravidian_10
+			2 = indian_dravidian_11
+			2 = indian_dravidian_12
+			2 = indian_dravidian_13
+			2 = indian_dravidian_14
+			2 = indian_dravidian_15
 		}
 	}
 }

@@ -2,7 +2,7 @@
 # History database id:206
 bookmark_france1018={
 	type=male
-	id=16539
+	id=16738
 	age=0.460000
 	genes={ 		hair_color={ 127 179 208 173 }
  		skin_color={ 93 75 52 95 }
@@ -90,14 +90,14 @@ bookmark_france1018={
  		face_detail_nose_ridge_def={ "nose_ridge_def_pos" 20 "nose_ridge_def_neg" 150 }
  		face_detail_nose_tip_def={ "nose_tip_def" 155 "nose_tip_def" 21 }
  		face_detail_temple_def={ "temple_def" 130 "temple_def" 188 }
- 		expression_brow_wrinkles={ "brow_wrinkles_01" 0 "brow_wrinkles_01" 188 }
+ 		expression_brow_wrinkles={ "brow_wrinkles_01" 188 "brow_wrinkles_01" 188 }
  		expression_eye_wrinkles={ "eye_wrinkles_01" 6 "eye_wrinkles_01" 6 }
  		expression_forehead_wrinkles={ "forehead_wrinkles_01" 55 "forehead_wrinkles_01" 55 }
  		expression_other={ "cheek_wrinkles_both_01" 51 "cheek_wrinkles_both_01" 0 }
  		complexion={ "complexion_1" 126 "complexion_5" 92 }
- 		gene_height={ "normal_height" 138 "normal_height" 149 }
- 		gene_bs_body_type={ "body_fat_head_fat_low" 145 "body_fat_head_fat_low" 133 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 122 "body_shape_pear_full" 0 }
+ 		gene_height={ "normal_height" 142 "normal_height" 149 }
+ 		gene_bs_body_type={ "body_fat_head_fat_low" 127 "body_fat_head_fat_low" 133 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 91 "body_shape_pear_full" 0 }
  		gene_bs_bust={ "bust_clothes" 159 "bust_shape_2_half" 159 }
  		gene_age={ "old_beauty_1" 50 "old_4" 113 }
  		gene_eyebrows_shape={ "avg_spacing_lower_thickness" 182 "avg_spacing_lower_thickness" 223 }
@@ -108,14 +108,24 @@ bookmark_france1018={
  		eye_accessory={ "normal_eyes" 45 "normal_eyes" 45 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 52 "normal_eyelashes" 52 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "french_royalty" 22 "no_cloak" 0 }
- 		clothes={ "french_high_nobility_clothes" 105 "most_clothes" 0 }
+ 		cloaks={ "frankish_royalty" 21 "no_cloak" 0 }
+ 		clothes={ "french_high_nobility_clothes" 7 "most_clothes" 0 }
+ 		cosmetics_lipcolor={ "european_1" 72 "iranian_1" 0 }
+ 		cosmetics_blush={ "european_1" 93 "iranian_1" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 51 "all_hairstyles" 0 }
- 		headgear={ "french_charlemagne_imperial" 9 "no_headgear" 0 }
- 		legwear={ "western_common_legwear" 125 "no_legwear" 0 }
+ 		headgear_2={ "early_french_charlemagne_royal" 57 "no_headgear" 0 }
+ 		legwear={ "western_common_legwear" 95 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 10 "no_beard" 0 }
  }
-	entity={ 807438772 807438772 }
+	entity={ 1663114784 1663114784 }
 }
 

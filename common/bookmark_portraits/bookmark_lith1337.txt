@@ -2,8 +2,8 @@
 # History database id:473500
 bookmark_lith1337={
 	type=male
-	id=48320
-	age=0.660000
+	id=48629
+	age=0.670000
 	genes={ 		hair_color={ 80 112 80 112 }
  		skin_color={ 101 85 101 85 }
  		eye_color={ 124 101 229 129 }
@@ -91,13 +91,13 @@ bookmark_lith1337={
  		face_detail_nose_tip_def={ "nose_tip_def" 143 "nose_tip_def" 8 }
  		face_detail_temple_def={ "temple_def" 184 "temple_def" 213 }
  		expression_brow_wrinkles={ "brow_wrinkles_03" 144 "brow_wrinkles_01" 7 }
- 		expression_eye_wrinkles={ "eye_wrinkles_01" 121 "eye_wrinkles_01" 40 }
+ 		expression_eye_wrinkles={ "eye_wrinkles_01" 40 "eye_wrinkles_01" 40 }
  		expression_forehead_wrinkles={ "forehead_wrinkles_01" 70 "forehead_wrinkles_01" 70 }
  		expression_other={ "cheek_wrinkles_left_01" 127 "cheek_wrinkles_left_01" 127 }
  		complexion={ "complexion_1" 77 "complexion_2" 77 }
- 		gene_height={ "normal_height" 147 "normal_height" 147 }
- 		gene_bs_body_type={ "body_fat_head_fat_medium" 123 "body_fat_head_fat_low" 135 }
- 		gene_bs_body_shape={ "body_shape_average_clothed" 113 "body_shape_apple_full" 1 }
+ 		gene_height={ "normal_height" 149 "normal_height" 147 }
+ 		gene_bs_body_type={ "body_fat_head_fat_medium" 120 "body_fat_head_fat_low" 135 }
+ 		gene_bs_body_shape={ "body_shape_average_clothed" 103 "body_shape_apple_full" 1 }
  		gene_bs_bust={ "bust_clothes" 147 "bust_shape_4_half" 154 }
  		gene_age={ "old_beauty_1" 35 "old_beauty_1" 24 }
  		gene_eyebrows_shape={ "avg_spacing_avg_thickness" 216 "avg_spacing_low_thickness" 119 }
@@ -108,14 +108,22 @@ bookmark_lith1337={
  		eye_accessory={ "normal_eyes" 170 "normal_eyes" 170 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 36 "normal_eyelashes" 36 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "balto_finnic_cloak_high_nobility" 102 "no_cloak" 0 }
- 		clothes={ "balto_finnic_high_nobility_clothes" 133 "most_clothes" 0 }
- 		headgear={ "balto_finnic_royalty" 54 "no_headgear" 0 }
- 		legwear={ "fp1_common_legwear" 194 "no_legwear" 0 }
+ 		cloaks={ "balto_finnic_cloak_high_nobility" 56 "no_cloak" 0 }
+ 		clothes={ "balto_finnic_high_nobility_clothes" 29 "most_clothes" 0 }
+ 		headgear={ "balto_finnic_royalty" 59 "no_headgear" 0 }
+ 		legwear={ "fp1_common_legwear" 2 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 10 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 237 "all_hairstyles" 0 }
  }
-	entity={ 2697330347 2697330347 }
+	entity={ 3267808479 3267808479 }
 }
 

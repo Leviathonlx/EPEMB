@@ -2,7 +2,7 @@
 # History database id:33350
 bookmark_ethelstan={
 	type=male
-	id=11828
+	id=11987
 	age=0.430000
 	genes={ 		hair_color={ 160 119 169 166 }
  		skin_color={ 20 76 56 77 }
@@ -95,8 +95,8 @@ bookmark_ethelstan={
  		expression_forehead_wrinkles={ "forehead_wrinkles_01" 32 "forehead_wrinkles_01" 32 }
  		expression_other={ "cheek_wrinkles_both_01" 0 "cheek_wrinkles_both_01" 0 }
  		complexion={ "complexion_2" 198 "complexion_3" 164 }
- 		gene_height={ "normal_height" 136 "normal_height" 129 }
- 		gene_bs_body_type={ "body_fat_head_fat_medium" 86 "body_fat_head_fat_low" 116 }
+ 		gene_height={ "normal_height" 142 "normal_height" 134 }
+ 		gene_bs_body_type={ "body_fat_head_fat_medium" 114 "body_fat_head_fat_low" 116 }
  		gene_bs_body_shape={ "body_shape_average_clothed" 142 "body_shape_triangle_half" 0 }
  		gene_bs_bust={ "bust_clothes" 124 "bust_shape_3_half" 124 }
  		gene_age={ "old_beauty_1" 141 "old_1" 141 }
@@ -108,11 +108,21 @@ bookmark_ethelstan={
  		eye_accessory={ "normal_eyes" 240 "normal_eyes" 240 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 225 "normal_eyelashes" 225 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		cloaks={ "western_royalty" 40 "no_cloak" 0 }
- 		clothes={ "anglo_saxon_high_nobility_clothes" 67 "most_clothes" 0 }
- 		headgear={ "anglo_saxon_royalty" 22 "no_headgear" 0 }
- 		legwear={ "western_common_legwear" 40 "no_legwear" 0 }
+ 		cloaks={ "early_western_royalty" 177 "no_cloak" 0 }
+ 		clothes={ "anglo_saxon_high_nobility_clothes" 143 "most_clothes" 0 }
+ 		cosmetics_lipcolor={ "european_1" 84 "iranian_1" 0 }
+ 		cosmetics_blush={ "european_1" 125 "iranian_1" 0 }
+ 		headgear={ "anglo_saxon_royalty" 162 "no_headgear" 0 }
+ 		legwear={ "western_common_legwear" 183 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 35 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 25 "all_hairstyles" 0 }
  }

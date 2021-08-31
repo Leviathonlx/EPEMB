@@ -4,7 +4,7 @@
 		german_group_coa_gfx
 		western_coa_gfx
 		western_building_gfx
-		western_clothing_gfx
+		german_clothing_gfx
 		western_unit_gfx
 		dde_hre_clothing_gfx
 	}

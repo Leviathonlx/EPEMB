@@ -279,10 +279,7 @@
 	
 	welayta = { #Represents Damot and Omotic languages for now - needs complete set of names and dynasties etc.
 
-	graphical_cultures = {
-		sub_saharan_african_tribal_clothing_gfx
-		west_african_tribal_unit_gfx
-	}
+	
 		
 		color = hsv{ 0.17 0.65 0.44 }
 		
@@ -361,10 +358,7 @@
 	daju = {
 		color = hsv{ 0.17 0.8 0.7 }
 		
-	graphical_cultures = {
-		sub_saharan_african_tribal_clothing_gfx
-		west_african_tribal_unit_gfx
-	}		
+			
 		
 		cadet_dynasty_names = {
 			"dynn_Warsangali"

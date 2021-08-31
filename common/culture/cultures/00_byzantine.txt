@@ -1,12 +1,4 @@
 ﻿byzantine_group = {
-	
-	graphical_cultures = {
-		byzantine_group_coa_gfx
-		western_coa_gfx
-		mediterranean_building_gfx
-		byzantine_clothing_gfx
-		eastern_unit_gfx
-	}
 
 	mercenary_names = {
 		{ name = mercenary_company_manglabites }
@@ -14,7 +6,13 @@
 	}
  
 	arberian = {
-		
+		graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}
 		color = { 0.5 0.5 0.8 }
 
 		cadet_dynasty_names = {
@@ -120,7 +118,13 @@
 	
 	
 	udi = {
-		
+		graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}
 		color = { 0.5 0.8 0.7 }
 
 		cadet_dynasty_names = {
@@ -193,11 +197,32 @@
 			1 = european_med_east_1
 			1 = european_med_east_2
 			1 = european_med_central_byzantine_1
+			1 = asian_tocharian_1
+			1 = asian_tocharian_2
+			1 = asian_tocharian_3
+			1 = asian_tocharian_4 
+			1 = asian_tocharian_5
+			1 = asian_tocharian_6
+			1 = asian_tocharian_7
+			1 = asian_tocharian_8
+			1 = asian_tocharian_9 
+			1 = asian_tocharian_10
+			1 = asian_tocharian_11
+			1 = asian_tocharian_12
+			1 = asian_tocharian_13
+			1 = asian_tocharian_14 
+			1 = asian_tocharian_15
 		}
 	}
 	
 	kasogi = {
-		
+		graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}
 		color = { 0.55 0.2 0.1 }
 
 		cadet_dynasty_names = {
@@ -293,10 +318,32 @@
 			1 = european_med_east_1
 			1 = european_med_east_2
 			1 = european_med_central_byzantine_1
+			1 = asian_tocharian_1
+			1 = asian_tocharian_2
+			1 = asian_tocharian_3
+			1 = asian_tocharian_4 
+			1 = asian_tocharian_5
+			1 = asian_tocharian_6
+			1 = asian_tocharian_7
+			1 = asian_tocharian_8
+			1 = asian_tocharian_9 
+			1 = asian_tocharian_10
+			1 = asian_tocharian_11
+			1 = asian_tocharian_12
+			1 = asian_tocharian_13
+			1 = asian_tocharian_14 
+			1 = asian_tocharian_15
 		}
 	}
 	
 	caucasian_avar = {
+	graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}
 		color = { 0.75 0.3 0.7 }
 		male_names = {
 			E_lbeg E_mbalan Aghsartan Alatey Akhsar Anbal Anbazuk Aravat Arsen Askhkadar Ashot Aslan Aspar Athom Balambar Balsag Barlah BE_qE_tar Basil Bazuk Beler Ber BirE_g Boz-Uruz BuU_rgur Buriberdi
@@ -364,31 +411,49 @@
 		disinherit_from_blinding = yes
 		
 		ethnicities = {
-			4 = asian_turkic_1_western
-			4 = asian_turkic_2_western
-			4 = asian_turkic_3_western
-			4 = asian_turkic_4_western
-			4 = asian_turkic_5_western
-			4 = asian_turkic_6_western
-			4 = asian_turkic_7_western
-			4 = asian_turkic_8_western 
-			4 = asian_turkic_9_western
-			4 = asian_turkic_15_western 
-			4 = asian_turkic_16_western
-			4 = asian_turkic_17_western
-			4 = asian_turkic_19_western
-			4 = asian_turkic_20_western
-			4 = asian_turkic_23_western
-			4 = asian_turkic_26
-			4 = asian_turkic_27
-			4 = asian_turkic_28
-			4 = asian_turkic_29
-			4 = asian_turkic_30
-			4 = asian_turkic_36
-			4 = asian_turkic_37
-			4 = asian_turkic_38
-			4 = asian_turkic_39
-			4 = asian_turkic_40
+			2 = european_med_greek_1
+			2 = european_med_greek_2
+			2 = european_med_greek_3
+			2 = european_med_greek_4
+			2 = european_med_greek_5
+			2 = european_med_greek_6
+			2 = european_med_greek_7
+			2 = european_med_greek_8
+			2 = european_med_greek_9
+			2 = european_med_greek_10
+			2 = european_med_greek_11
+			2 = european_med_greek_12
+			2 = european_med_greek_13
+			2 = european_med_greek_14
+			2 = european_med_greek_15
+			2 = european_med_greek_16
+			2 = european_med_greek_17
+			2 = european_med_greek_18
+			2 = european_med_greek_19
+			2 = european_med_greek_20
+			2 = european_med_greek_21
+			2 = european_med_greek_22
+			2 = european_med_greek_23
+			2 = european_med_greek_24
+			2 = european_med_greek_25
+			1 = european_med_east_1
+			1 = european_med_east_2
+			1 = european_med_central_byzantine_1
+			1 = asian_tocharian_1
+			1 = asian_tocharian_2
+			1 = asian_tocharian_3
+			1 = asian_tocharian_4 
+			1 = asian_tocharian_5
+			1 = asian_tocharian_6
+			1 = asian_tocharian_7
+			1 = asian_tocharian_8
+			1 = asian_tocharian_9 
+			1 = asian_tocharian_10
+			1 = asian_tocharian_11
+			1 = asian_tocharian_12
+			1 = asian_tocharian_13
+			1 = asian_tocharian_14 
+			1 = asian_tocharian_15
 		}
 	
 	}
@@ -671,7 +736,13 @@
 	   }
 	
 	armenian = {
-		
+		graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			armenian_clothing_gfx
+			eastern_unit_gfx
+		}
 		color = { 0.5 0.2 0.5 }
 
 		cadet_dynasty_names = {
@@ -781,10 +852,24 @@
 			3 = european_med_armenian_9
 			3 = european_med_armenian_10
 			3 = iranian_med_armenian_1
+			3 = european_med_armenian_11
+			3 = european_med_armenian_12
+			3 = european_med_armenian_13
+			3 = european_med_armenian_14
+			3 = european_med_armenian_15
+			3 = european_med_armenian_16
+			3 = european_med_armenian_17
 		}
 	}
 	
 	greek = {
+		graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}
 		
 		color = { 0.8 0.3 0.8 }
 
@@ -1932,6 +2017,13 @@
 	}
 	
 	alan = {
+		graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}
 		
 		color = { 0.7 0.5 0.7 }
 
@@ -2000,38 +2092,52 @@
 		patronym_suffix_female = "dynnpat_suf_y_chyzg"
 		
 		ethnicities = {
-			2 = european_med_greek_1
-			2 = european_med_greek_2
-			2 = european_med_greek_3
-			2 = european_med_greek_4
-			2 = european_med_greek_5
-			2 = european_med_greek_6
-			2 = european_med_greek_7
-			2 = european_med_greek_8
-			2 = european_med_greek_9
-			2 = european_med_greek_10
-			2 = european_med_greek_11
-			2 = european_med_greek_12
-			2 = european_med_greek_13
-			2 = european_med_greek_14
-			2 = european_med_greek_15
-			2 = european_med_greek_16
-			2 = european_med_greek_17
-			2 = european_med_greek_18
-			2 = european_med_greek_19
-			2 = european_med_greek_20
-			2 = european_med_greek_21
-			2 = european_med_greek_22
-			2 = european_med_greek_23
-			2 = european_med_greek_24
-			2 = european_med_greek_25
-			1 = european_med_east_1
-			1 = european_med_east_2
-			1 = european_med_central_byzantine_1
+			2 = iranian_saka_01
+			2 = iranian_saka_02
+			2 = iranian_saka_03
+			2 = iranian_saka_04
+			2 = iranian_saka_05
+			2 = iranian_saka_06
+			2 = iranian_saka_07
+			2 = iranian_saka_08
+			2 = iranian_saka_09
+			2 = iranian_saka_10
+			2 = iranian_saka_11
+			2 = iranian_saka_12
+			2 = iranian_saka_13
+			2 = iranian_saka_14
+			2 = iranian_saka_15
+			2 = iranian_saka_16
+			2 = iranian_saka_17
+			2 = iranian_saka_18
+			2 = iranian_saka_19
+			2 = iranian_saka_20
+			2 = asian_turkic_1_western
+			2 = asian_turkic_2_western
+			2 = asian_turkic_3_western
+			2 = asian_turkic_4_western
+			2 = asian_turkic_5_western
+			2 = asian_turkic_6_western
+			2 = asian_turkic_7_western
+			2 = asian_turkic_8_western 
+			2 = asian_turkic_9_western
+			2 = asian_turkic_15_western 
+			2 = asian_turkic_16_western
+			2 = asian_turkic_17_western
+			2 = asian_turkic_19_western
+			2 = asian_turkic_20_western
+			2 = asian_turkic_23_western			 
 		}
 	}
 	
 	georgian = {
+		graphical_cultures = {
+			byzantine_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			georgian_clothing_gfx
+			eastern_unit_gfx
+		}
 		
 		color = { 0.6 0.3 0.8 }
 
@@ -2188,7 +2294,13 @@
 			
 
 	vlach = {
-
+	graphical_cultures = {
+		south_slavic_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		south_slav_clothing_gfx
+		eastern_unit_gfx
+		}
 		color = { 0.3 0.2 0.2 }
 
 		cadet_dynasty_names = {

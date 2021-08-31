@@ -2,7 +2,7 @@
 # History database id:7627
 bookmark_northmen_earl_alfred1={
 	type=male
-	id=9223
+	id=9376
 	age=0.180000
 	genes={ 		hair_color={ 76 191 166 172 }
  		skin_color={ 67 79 68 82 }
@@ -96,7 +96,7 @@ bookmark_northmen_earl_alfred1={
  		expression_other={ "cheek_wrinkles_left_01" 0 "cheek_wrinkles_left_01" 0 }
  		complexion={ "complexion_6" 168 "complexion_4" 148 }
  		gene_height={ "normal_height" 124 "normal_height" 89 }
- 		gene_bs_body_type={ "body_fat_head_fat_low" 115 "body_fat_head_fat_medium" 127 }
+ 		gene_bs_body_type={ "body_fat_head_fat_low" 157 "body_fat_head_fat_medium" 127 }
  		gene_bs_body_shape={ "body_shape_average_clothed" 182 "body_shape_pear_full" 40 }
  		gene_bs_bust={ "bust_clothes" 169 "bust_shape_2_full" 180 }
  		gene_age={ "old_3" 177 "old_2" 211 }
@@ -108,12 +108,21 @@ bookmark_northmen_earl_alfred1={
  		eye_accessory={ "normal_eyes" 34 "normal_eyes" 34 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 151 "normal_eyelashes" 151 }
+ 		gene_eye_size={ "vanilla_eye_size" 0 "vanilla_eye_size" 0 }
+ 		gene_eye_shut_top={ "vanilla_eye_shut_top" 0 "vanilla_eye_shut_top" 0 }
+ 		gene_eye_shut_bottom={ "vanilla_eye_shut_bottom" 0 "vanilla_eye_shut_bottom" 0 }
+ 		gene_bs_eye_height_inside={ "vanilla_eye_height_inside" 0 "vanilla_eye_height_inside" 0 }
+ 		gene_bs_eye_height_outisde={ "vanilla_eye_height_outisde" 0 "vanilla_eye_height_outisde" 0 }
+ 		gene_bs_ear_lobe={ "vanilla_ear_lobe" 0 "vanilla_ear_lobe" 0 }
+ 		gene_bs_nose_central_width={ "vanilla_nose_central_width" 0 "vanilla_nose_central_width" 0 }
+ 		gene_bs_nose_septum_width={ "vanilla_nose_septum_width" 0 "vanilla_nose_septum_width" 0 }
  		pose={ "" 255 "" 0 }
- 		clothes={ "tribal_era_western_war" 160 "most_clothes" 0 }
+ 		cloaks={ "merovingian_war_cloaks" 217 "no_cloak" 0 }
+ 		clothes={ "tribal_era_western_war" 22 "most_clothes" 0 }
  		gene_bs_ear_outward={ "ear_outward_neg" 255 "ear_outward_neg" 0 }
- 		headgear_2={ "tribal_era_western_war" 228 "no_headgear" 0 }
- 		headgear={ "no_headgear" 228 "no_headgear" 0 }
- 		legwear={ "western_war_legwear" 4 "no_legwear" 0 }
+ 		headgear_2={ "tribal_era_anglo_saxon_war" 70 "no_headgear" 0 }
+ 		headgear={ "no_headgear" 8 "no_headgear" 0 }
+ 		legwear={ "western_common_legwear" 8 "no_legwear" 0 }
  		beards={ "scripted_character_beards_01" 58 "no_beard" 0 }
  		hairstyles={ "scripted_character_hairstyles_01" 10 "all_hairstyles" 0 }
  }
