@@ -1,12 +1,4 @@
 ﻿arabic_group = {
-	graphical_cultures = {
-		arabic_group_coa_gfx
-		arabic_group_building_gfx
-		mena_building_gfx
-				   
-		mena_unit_gfx
-		dde_abbasid_clothing_gfx
-	}
 
 	mercenary_names = {
 		{ name = "mercenary_company_mamluks" coat_of_arms = "mc_mamluks" }
@@ -14,7 +6,11 @@
 	
 	iraqi = {
 		graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx   
 		levant_unit_gfx
+		bedouin_clothing_gfx
 		}
 		color = { 0.2 0.75 0.4 }
 
@@ -234,7 +230,19 @@
 			4 = mid_east_arabic_23
 			4 = mid_east_arabic_24
 			4 = mid_east_arabic_25
+			4 = mid_east_arabic_26
+			4 = mid_east_arabic_27
+			4 = mid_east_arabic_28
+			4 = mid_east_arabic_29
+			4 = mid_east_arabic_30
+			4 = mid_east_arabic_31
+			4 = mid_east_arabic_32
+			4 = mid_east_arabic_33
+			4 = mid_east_arabic_34
+			4 = mid_east_arabic_35
+			4 = mid_east_arabic_36
 		}
+
 
 		mercenary_names = {
 			{ name = "mercenary_company_sarkans_of_place" }
@@ -244,7 +252,13 @@
 	}
 	
 	bahraini = {
-		
+	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx   
+		mena_unit_gfx
+		bedouin_clothing_gfx
+		}	
 		color = { 90 130 60 }
 
 		cadet_dynasty_names = {
@@ -474,6 +488,11 @@
 			5 = mid_east_bedouin_18
 			5 = mid_east_bedouin_19
 			5 = mid_east_bedouin_20
+			5 = mid_east_bedouin_21
+			5 = mid_east_bedouin_22
+			5 = mid_east_bedouin_23
+			5 = mid_east_bedouin_24
+			5 = mid_east_bedouin_25
 		}
 
 		mercenary_names = {
@@ -483,7 +502,13 @@
 	}
 	
 	omani = {
-		
+	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx   
+		mena_unit_gfx
+		bedouin_clothing_gfx
+		}	
 		color = { 90 175 130 }
 
 		cadet_dynasty_names = {
@@ -713,6 +738,11 @@
 			5 = mid_east_bedouin_18
 			5 = mid_east_bedouin_19
 			5 = mid_east_bedouin_20
+			5 = mid_east_bedouin_21
+			5 = mid_east_bedouin_22
+			5 = mid_east_bedouin_23
+			5 = mid_east_bedouin_24
+			5 = mid_east_bedouin_25
 		}
 
 		mercenary_names = {
@@ -722,7 +752,13 @@
 	}
 	
 	sicilian_arabic = {
-		
+	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx   
+		mena_unit_gfx
+		bedouin_clothing_gfx
+		}	
 		color = { 0.3 0.6 0.3 }
 
 		cadet_dynasty_names = {
@@ -949,7 +985,13 @@
 	}
 	
 	hijazi = {
-		
+	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx   
+		mena_unit_gfx
+		bedouin_clothing_gfx
+		}	
 		color = { 0.1 0.7 0.8 }
 
 		cadet_dynasty_names = {
@@ -1180,6 +1222,11 @@
 			5 = mid_east_bedouin_18
 			5 = mid_east_bedouin_19
 			5 = mid_east_bedouin_20
+			5 = mid_east_bedouin_21
+			5 = mid_east_bedouin_22
+			5 = mid_east_bedouin_23
+			5 = mid_east_bedouin_24
+			5 = mid_east_bedouin_25
 		}
 
 		mercenary_names = {
@@ -1190,7 +1237,13 @@
 	
  
 	bedouin = {
-		
+	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx   
+		mena_unit_gfx
+		bedouin_clothing_gfx
+		}
 		color = { 0.1 0.75 0.1 }
 
 		cadet_dynasty_names = {
@@ -1420,6 +1473,11 @@
 			5 = mid_east_bedouin_18
 			5 = mid_east_bedouin_19
 			5 = mid_east_bedouin_20
+			5 = mid_east_bedouin_21
+			5 = mid_east_bedouin_22
+			5 = mid_east_bedouin_23
+			5 = mid_east_bedouin_24
+			5 = mid_east_bedouin_25		  
 		}
 
 		mercenary_names = {
@@ -1429,7 +1487,11 @@
 	}
 	levantine = {
 	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx
 		levant_unit_gfx
+		dde_abbasid_clothing_gfx
 	}
 		
 		color = { 0.3 0.95 0.3 }
@@ -1650,6 +1712,17 @@
 			4 = mid_east_arabic_23
 			4 = mid_east_arabic_24
 			4 = mid_east_arabic_25
+			4 = mid_east_arabic_26
+			4 = mid_east_arabic_27
+			4 = mid_east_arabic_28
+			4 = mid_east_arabic_29
+			4 = mid_east_arabic_30
+			4 = mid_east_arabic_31
+			4 = mid_east_arabic_32
+			4 = mid_east_arabic_33
+			4 = mid_east_arabic_34
+			4 = mid_east_arabic_35
+			4 = mid_east_arabic_36		 
 		}
 
 		mercenary_names = {
@@ -1662,8 +1735,12 @@
 	egyptian = {
 
 	graphical_cultures = {
-		levant_unit_gfx
-	}	
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx
+		mena_unit_gfx
+		dde_abbasid_clothing_gfx
+	}				  
 	
 		color = { 0.1 0.6 0.1 }
 
@@ -1798,6 +1875,17 @@
 			4 = mid_east_arabic_23
 			4 = mid_east_arabic_24
 			4 = mid_east_arabic_25
+			4 = mid_east_arabic_26
+			4 = mid_east_arabic_27
+			4 = mid_east_arabic_28
+			4 = mid_east_arabic_29
+			4 = mid_east_arabic_30
+			4 = mid_east_arabic_31
+			4 = mid_east_arabic_32
+			4 = mid_east_arabic_33
+			4 = mid_east_arabic_34
+			4 = mid_east_arabic_35
+			4 = mid_east_arabic_36			 
 		}
 
 		mercenary_names = {
@@ -1809,6 +1897,10 @@
 	maghrebi = {
 
 	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx
+		mena_unit_gfx
 		maghreb_clothing_gfx
 	}
 		
@@ -2065,6 +2157,42 @@
 			4 = mid_east_arabic_23
 			4 = mid_east_arabic_24
 			4 = mid_east_arabic_25
+			4 = mid_east_arabic_26
+			4 = mid_east_arabic_27
+			4 = mid_east_arabic_28
+			4 = mid_east_arabic_29
+			4 = mid_east_arabic_30
+			4 = mid_east_arabic_31
+			4 = mid_east_arabic_32
+			4 = mid_east_arabic_33
+			4 = mid_east_arabic_34
+			4 = mid_east_arabic_35
+			4 = mid_east_arabic_36
+			5 = mid_east_bedouin_1
+			5 = mid_east_bedouin_2
+			5 = mid_east_bedouin_3
+			5 = mid_east_bedouin_4
+			5 = mid_east_bedouin_5
+			5 = mid_east_bedouin_6
+			5 = mid_east_bedouin_7
+			5 = mid_east_bedouin_8
+			5 = mid_east_bedouin_9
+			5 = mid_east_bedouin_10
+			5 = mid_east_bedouin_11
+			5 = mid_east_bedouin_12
+			5 = mid_east_bedouin_13
+			5 = mid_east_bedouin_14
+			5 = mid_east_bedouin_15
+			5 = mid_east_bedouin_16
+			5 = mid_east_bedouin_17
+			5 = mid_east_bedouin_18
+			5 = mid_east_bedouin_19
+			5 = mid_east_bedouin_20
+			5 = mid_east_bedouin_21
+			5 = mid_east_bedouin_22
+			5 = mid_east_bedouin_23
+			5 = mid_east_bedouin_24
+			5 = mid_east_bedouin_25				  
 		}
 
 		mercenary_names = {
@@ -2073,6 +2201,13 @@
 		}
 	}
 	andalusian = {
+	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx
+		mena_unit_gfx
+		dde_abbasid_clothing_gfx
+	}	
 		color = { 0.4 0.6 0.1 }
 
 		cadet_dynasty_names = {
@@ -2221,6 +2356,17 @@
 			4 = mid_east_arabic_23
 			4 = mid_east_arabic_24
 			4 = mid_east_arabic_25
+			4 = mid_east_arabic_26
+			4 = mid_east_arabic_27
+			4 = mid_east_arabic_28
+			4 = mid_east_arabic_29
+			4 = mid_east_arabic_30
+			4 = mid_east_arabic_31
+			4 = mid_east_arabic_32
+			4 = mid_east_arabic_33
+			4 = mid_east_arabic_34
+			4 = mid_east_arabic_35
+			4 = mid_east_arabic_36			 
 			5 = european_med_iberian_1
 			5 = european_med_iberian_2
 			5 = european_med_iberian_3
@@ -2275,6 +2421,13 @@
 		}
 	}
 	yemeni = {
+	graphical_cultures = {
+		arabic_group_coa_gfx
+		arabic_group_building_gfx
+		mena_building_gfx
+		mena_unit_gfx
+		bedouin_clothing_gfx
+	}
 		
 		color = { 0.2 0.6 0.2 }
 
@@ -2457,6 +2610,11 @@
 			5 = mid_east_bedouin_18
 			5 = mid_east_bedouin_19
 			5 = mid_east_bedouin_20
+			5 = mid_east_bedouin_21
+			5 = mid_east_bedouin_22
+			5 = mid_east_bedouin_23
+			5 = mid_east_bedouin_24
+			5 = mid_east_bedouin_25
 		}
 	}
 }

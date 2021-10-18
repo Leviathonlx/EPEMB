@@ -295,24 +295,50 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			6 = european_caucasian_brown_1
-			6 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			7 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			6 = european_caucasian_dark_3
-			6 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -323,579 +349,7 @@
 			{ name = "mercenary_company_new_franks" }
 		}
 	}
-	vlaemsch = {	#Formed from Old Dutch (Low Frankish). West Flemish along with Limburgisch were the predominent literary languages
-	
-		graphical_cultures = {
-			frisian_coa_gfx
-		}
 
-		color = { 0.9 0.19 0.33 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-
-		dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-		
-		male_names = {
-			Adriaen Albrecht Alwin Ambroos Antoon Arnold Arnulf Balderik Barend Barnaerd Bartolomeus
-			Bavo Bertold Boudewijn Claes Claeuwaert Daevit Damaes Diederick Dirk Douwe Eduard Egmund Ekbert
-			Emmo Engelbrecht Filips Floris Folbert Frans Frederik Gerard Gerolt Gerulf
-			Gerrit Gijsbrecht Giselbert Godfried Godschalk Gozewijn Guij Gwijde Hendrik Herman Hubert
-			Hugo Ijsbrand Ijsbrecht Jacco Jacob Jan Karel Koenraad
-			Kristof Lambert Lodewijk Ludewijn Lutbert Luthard Maertijn Marquart Niclaes
-			Olivier Otto Otwin Onno Pieter Reinaerd Reinoud Reginar Robrecht Robert Rodulf
-			Roelof Roland Rutger Sebastiaen Sicco Simon Steven Steyn Theodolf Waelram Walter
-			Wicher Willem Wolfard
-		}
-		female_names = {
-			Ada Adela Adelheid Aechte Agaete Aleid Alijse Aliken Anna Annelies Badeloge Bava Beatrijs Benedicta
-			Blanca Blanceflore Cecily Cille Clara Clementia Elisabeth Ellijnore Emma Ermingarde Fenne
-			Filippa Frida Gheertrude Gerda Godila Haduwijn Helena Herlinda Hilligonda Ide Imagina Irene Isabelle Iudith
-			Jacoba Jaccobijn Jasminne Johanna Jolanda Juliana Jutte Kathrijne Katrien Liedwin Lisebet Machtelt Margareta
-			Maria Mathilde Oda Odelt Olinde Onna Pieternelle Reynilde Sanne Sigerda Sophie Swanhildis Thetburga Waltrud
-			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete
-		}
-		
-		dynasty_of_location_prefix = "dynnp_van"
-		
-		patronym_suffix_male = "dynnpat_suf_szoon"
-		patronym_suffix_female = "dynnpat_suf_sdochter"
-		always_use_patronym = yes	
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-
-		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			7 = european_caucasian_brown_1
-			7 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
-		}
-		mercenary_names = {
-			{ name = "mercenary_company_of_the_brabancon_wolf" coat_of_arms = "mc_company_of_the_brabancon_wolf" }
-			{ name = "mercenary_company_flemish_band" }
-			{ name = "mercenary_false_earls_company" }
-		}
-	}
-	
-	limburgisch = {	#Formed from Old Dutch (Low Frankish). Brabantian in EU4 M&T due to it becoming more predominent during EU4's timeframe.
-	
-		graphical_cultures = {
-			frisian_coa_gfx
-		}
-
-		color = { 0.9 0.39 0.3 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-
-		dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-		
-		male_names = {
-			Adriaen Albrecht Alwin Ambroos Antoon Arnold Arnulf Balderik Barend Barnaerd Bartolomeus
-			Bavo Bertold Boudewijn Claes Claeuwaert Daevit Damaes Diederick Dirk Douwe Eduard Egmund Ekbert
-			Emmo Engelbrecht Filips Floris Folbert Frans Frederik Gerard Gerolt Gerulf
-			Gerrit Gijsbrecht Giselbert Godfried Godschalk Gozewijn Guij Gwijde Hendrik Herman Hubert
-			Hugo Ijsbrand Ijsbrecht Jacco Jacob Jan Karel Koenraad
-			Kristof Lambert Lodewijk Ludewijn Lutbert Luthard Maertijn Marquart Niclaes
-			Olivier Otto Otwin Onno Pieter Reinaerd Reinoud Reginar Robrecht Robert Rodulf
-			Roelof Roland Rutger Sebastiaen Sicco Simon Steven Steyn Theodolf Waelram Walter
-			Wicher Willem Wolfard
-		}
-		female_names = {
-			Ada Adela Adelheid Aechte Agaete Aleid Alijse Aliken Anna Annelies Badeloge Bava Beatrijs Benedicta
-			Blanca Blanceflore Cecily Cille Clara Clementia Elisabeth Ellijnore Emma Ermingarde Fenne
-			Filippa Frida Gheertrude Gerda Godila Haduwijn Helena Herlinda Hilligonda Ide Imagina Irene Isabelle Iudith
-			Jacoba Jaccobijn Jasminne Johanna Jolanda Juliana Jutte Kathrijne Katrien Liedwin Lisebet Machtelt Margareta
-			Maria Mathilde Oda Odelt Olinde Onna Pieternelle Reynilde Sanne Sigerda Sophie Swanhildis Thetburga Waltrud
-			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete
-		}
-		
-		dynasty_of_location_prefix = "dynnp_van"
-		
-		patronym_suffix_male = "dynnpat_suf_szoon"
-		patronym_suffix_female = "dynnpat_suf_sdochter"
-		always_use_patronym = yes	
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-
-		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			7 = european_caucasian_brown_1
-			7 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
-		}
-
-		mercenary_names = {
-			{ name = "mercenary_company_of_the_brabancon_wolf" coat_of_arms = "mc_company_of_the_brabancon_wolf" }
-			{ name = "mercenary_company_flemish_band" }
-			{ name = "mercenary_false_earls_company" }
-		}
-	}
-	
-	walloon = {	#Formed during CK's time period.
-	
-		graphical_cultures = {
-			frisian_coa_gfx
-		}
-
-		color = { 0.6 0.50 0.3 }
-
-		cadet_dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-
-		dynasty_names = {
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_von" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bonen" }
-			{ "dynnp_van" "dynn_Sulzbach" }
-			{ "dynnp_van" "dynn_Wassemberg" }
-			{ "dynnp_van" "dynn_Geldern" }
-			{ "dynnp_van" "dynn_Bergh" }
-			{ "dynnp_van" "dynn_Brabant" }
-			{ "dynnp_van" "dynn_Namen" }
-			{ "dynnp_van" "dynn_Loon" }
-			{ "dynnp_van" "dynn_Heinsberg" }
-			"dynn_De_Graeff"
-			{ "dynnp_van" "dynn_Susa" }
-			"dynn_Groth"
-			{ "dynnp_van" "dynn_Egmond" }
-			{ "dynnp_van" "dynn_Amstel" }
-			{ "dynnp_van" "dynn_Arkel" }
-			{ "dynnp_van" "dynn_Boutershem" }
-			{ "dynnp_van" "dynn_Brederode" }
-			{ "dynnp_van" "dynn_Brunesheim" }
-			{ "dynnp_van" "dynn_Breda" }
-			{ "dynnp_van" "dynn_Heemskerk" }
-			{ "dynnp_van" "dynn_Gaveren" }
-			{ "dynnp_van" "dynn_Glymes" }
-			{ "dynnp_van" "dynn_Grimberghe" }
-			{ "dynnp_van" "dynn_Hurne" }
-			{ "dynnp_van" "dynn_Renesse" }
-			{ "dynnp_van" "dynn_Wesemael" }
-			{ "dynnp_van" "dynn_Wassenaer" }
-			{ "dynnp_van" "dynn_Rheden" }
-			{ "dynnp_van" "dynn_Bronckhorst" }
-			{ "dynnp_van" "dynn_Keppel" }
-			{ "dynnp_van" "dynn_Voorst" }
-			{ "dynnp_van" "dynn_Lathum" }
-			{ "dynnp_van" "dynn_Swane" }
-			{ "dynnp_van" "dynn_Wisch" }
-			{ "dynnp_van" "dynn_Kamerijk" }
-			"dynn_Cirksena"
-			{ "dynnp_van" "dynn_Visquard" }
-			{ "dynnp_van" "dynn_Groothusen" }
-			{ "dynnp_van" "dynn_Cuijck" }
-			{ "dynnp_van" "dynn_Bierum" }
-			{ "dynnp_van" "dynn_Rhenen" }
-			{ "dynnp_van" "dynn_Are" }
-			{ "dynnp_van" "dynn_Randerath" }
-			{ "dynnp_van" "dynn_Sierck" }
-			{ "dynnp_van" "dynn_Berthout" }
-			{ "dynnp_van" "dynn_Diest" }
-			{ "dynnp_van" "dynn_Voorne" }
-			{ "dynnp_van" "dynn_Naaldwijk" }
-			{ "dynnp_de" "dynn_Moravia" }
-			{ "dynnp_van" "dynn_Yperen" }
-			{ "dynnp_van" "dynn_Zeeland" }
-			"dynn_Munthe"
-			"dynn_Mard-e_Koochak"
-			"dynn_Hoving"
-			"dynn_Kuiper"
-		}
-		
-		male_names = {
-			Adriaen Albrecht Alwin Ambroos Antoon Arnold Arnulf Balderik Barend Barnaerd Bartolomeus
-			Bavo Bertold Boudewijn Claes Claeuwaert Daevit Damaes Diederick Dirk Douwe Eduard Egmund Ekbert
-			Emmo Engelbrecht Filips Floris Folbert Frans Frederik Gerard Gerolt Gerulf
-			Gerrit Gijsbrecht Giselbert Godfried Godschalk Gozewijn Guij Gwijde Hendrik Herman Hubert
-			Hugo Ijsbrand Ijsbrecht Jacco Jacob Jan Karel Koenraad
-			Kristof Lambert Lodewijk Ludewijn Lutbert Luthard Maertijn Marquart Niclaes
-			Olivier Otto Otwin Onno Pieter Reinaerd Reinoud Reginar Robrecht Robert Rodulf
-			Roelof Roland Rutger Sebastiaen Sicco Simon Steven Steyn Theodolf Waelram Walter
-			Wicher Willem Wolfard
-		}
-		female_names = {
-			Ada Adela Adelheid Aechte Agaete Aleid Alijse Aliken Anna Annelies Badeloge Bava Beatrijs Benedicta
-			Blanca Blanceflore Cecily Cille Clara Clementia Elisabeth Ellijnore Emma Ermingarde Fenne
-			Filippa Frida Gheertrude Gerda Godila Haduwijn Helena Herlinda Hilligonda Ide Imagina Irene Isabelle Iudith
-			Jacoba Jaccobijn Jasminne Johanna Jolanda Juliana Jutte Kathrijne Katrien Liedwin Lisebet Machtelt Margareta
-			Maria Mathilde Oda Odelt Olinde Onna Pieternelle Reynilde Sanne Sigerda Sophie Swanhildis Thetburga Waltrud
-			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete
-		}
-		
-		dynasty_of_location_prefix = "dynnp_van"
-		
-		patronym_suffix_male = "dynnpat_suf_szoon"
-		patronym_suffix_female = "dynnpat_suf_sdochter"
-		always_use_patronym = yes	
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 10
-		father_name_chance = 25
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
-		mother_name_chance = 5
-
-		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			7 = european_caucasian_brown_1
-			7 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
-		}
-		mercenary_names = {
-			{ name = "mercenary_company_of_the_brabancon_wolf" coat_of_arms = "mc_company_of_the_brabancon_wolf" }
-			{ name = "mercenary_company_flemish_band" }
-			{ name = "mercenary_false_earls_company" }
-		}
-	}
 	frisian = {	#Frisian made into separate culture
 	
 		graphical_cultures = {
@@ -1061,24 +515,51 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			7 = european_caucasian_brown_1
-			7 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_13_OPB
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -1255,10 +736,51 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			25 = caucasian_blond
-			15 = caucasian_ginger
-			35 = caucasian_brown_hair
-			25 = caucasian_dark_hair
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_13_OPB
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -1492,24 +1014,50 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			6 = european_caucasian_brown_1
-			6 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			7 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			6 = european_caucasian_dark_3
-			6 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -1823,24 +1371,50 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			6 = european_caucasian_brown_1
-			6 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			6 = european_caucasian_dark_3
-			6 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -2032,26 +1606,50 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			5 = european_caucasian_brown_1
-			5 = european_caucasian_brown_2
-			5 = european_caucasian_brown_3
-			5 = european_caucasian_brown_4
-			5 = european_caucasian_brown_5
-			5 = european_med_cisalpine_1
-			5 = european_med_cisalpine_2
-			5 = european_caucasian_dark_1
-			5 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			5 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -2216,26 +1814,51 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			5 = european_caucasian_brown_1
-			5 = european_caucasian_brown_2
-			5 = european_caucasian_brown_3
-			5 = european_caucasian_brown_4
-			5 = european_caucasian_brown_5
-			5 = european_med_cisalpine_1
-			5 = european_med_cisalpine_2
-			5 = european_caucasian_dark_1
-			5 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			5 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_13_OPB
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -2374,24 +1997,51 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			7 = european_caucasian_brown_1
-			7 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_13_OPB
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 	}
 	
@@ -2560,24 +2210,51 @@
 		mother_name_chance = 5
 
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			7 = european_caucasian_brown_1
-			7 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			5 = european_caucasian_dark_3
-			5 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_13_OPB
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
 
 		mercenary_names = {
@@ -2644,25 +2321,53 @@
 		mother_name_chance = 5
 		
 		ethnicities = {
-			5 = european_caucasian_blond_1
-			5 = european_caucasian_blond_2
-			5 = european_caucasian_blond_3
-			5 = european_caucasian_blond_4
-			5 = european_caucasian_blond_5
-			5 = european_caucasian_blond_6
-			5 = european_caucasian_ginger_1
-			5 = european_caucasian_ginger_2
-			6 = european_caucasian_brown_1
-			6 = european_caucasian_brown_2
-			6 = european_caucasian_brown_3
-			6 = european_caucasian_brown_4
-			7 = european_caucasian_brown_5
-			6 = european_caucasian_dark_1
-			6 = european_caucasian_dark_2
-			6 = european_caucasian_dark_3
-			6 = european_caucasian_dark_4
-			6 = european_caucasian_dark_5
+			3 = european_caucasian_blond_1
+			3 = european_caucasian_blond_2
+			3 = european_caucasian_blond_3
+			3 = european_caucasian_blond_4
+			3 = european_caucasian_blond_5
+			3 = european_caucasian_blond_6
+			3 = european_caucasian_ginger_1
+			3 = european_caucasian_ginger_2
+			3 = european_caucasian_brown_1
+			3 = european_caucasian_brown_2
+			3 = european_caucasian_brown_3
+			3 = european_caucasian_brown_4
+			3 = european_caucasian_brown_5
+			3 = european_caucasian_dark_1
+			3 = european_caucasian_dark_2
+			3 = european_caucasian_dark_3
+			3 = european_caucasian_dark_4
+			3 = european_caucasian_dark_5
+			2 = european_caucasian_german_1
+			2 = european_caucasian_german_2
+			2 = european_caucasian_german_3
+			2 = european_caucasian_german_4
+			2 = european_caucasian_german_5
+			2 = european_caucasian_german_6
+			2 = european_caucasian_german_7
+			2 = european_caucasian_german_8
+			2 = european_caucasian_german_9
+			2 = european_caucasian_german_10
+			2 = european_caucasian_german_11
+			2 = european_caucasian_german_12
+			2 = european_caucasian_german_13_OPB
+			2 = european_caucasian_german_14_Vol
+			2 = european_caucasian_german_15_Em
+			2 = european_caucasian_german_17
+			2 = european_caucasian_german_18
+			2 = european_caucasian_german_19
+			2 = european_caucasian_german_20
+			2 = european_caucasian_german_21
+			2 = european_caucasian_german_22
+			2 = european_caucasian_german_23
+			2 = european_caucasian_german_24
+			2 = european_caucasian_german_25
+			2 = european_caucasian_german_26
+			2 = european_caucasian_german_27
+			2 = european_caucasian_german_28
 		}
+
 
 		mercenary_names = {
 		}
