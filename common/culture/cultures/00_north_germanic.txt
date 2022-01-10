@@ -287,6 +287,8 @@
 			2 = european_caucasian_northern_blond_17
 			2 = european_caucasian_northern_blond_18
 			2 = european_caucasian_northern_blond_19
+			2 = european_caucasian_northern_blond_20
+			2 = european_caucasian_northern_blond_21	
 			5 = european_caucasian_northern_ginger_1
 			5 = european_caucasian_northern_ginger_2
 			3 = european_caucasian_northern_brown_1
@@ -555,6 +557,8 @@
 			2 = european_caucasian_northern_blond_17
 			2 = european_caucasian_northern_blond_18
 			2 = european_caucasian_northern_blond_19
+			2 = european_caucasian_northern_blond_20
+			2 = european_caucasian_northern_blond_21	
 			5 = european_caucasian_northern_ginger_1
 			5 = european_caucasian_northern_ginger_2
 			3 = european_caucasian_northern_brown_1
@@ -840,6 +844,8 @@
 			2 = european_caucasian_northern_blond_17
 			2 = european_caucasian_northern_blond_18
 			2 = european_caucasian_northern_blond_19
+			2 = european_caucasian_northern_blond_20
+			2 = european_caucasian_northern_blond_21	
 			5 = european_caucasian_northern_ginger_1
 			5 = european_caucasian_northern_ginger_2
 			3 = european_caucasian_northern_brown_1
@@ -1107,6 +1113,8 @@
 			2 = european_caucasian_northern_blond_17
 			2 = european_caucasian_northern_blond_18
 			2 = european_caucasian_northern_blond_19
+			2 = european_caucasian_northern_blond_20
+			2 = european_caucasian_northern_blond_21					   
 			5 = european_caucasian_northern_ginger_1
 			5 = european_caucasian_northern_ginger_2
 			3 = european_caucasian_northern_brown_1
@@ -1390,6 +1398,8 @@
 			2 = european_caucasian_northern_blond_17
 			2 = european_caucasian_northern_blond_18
 			2 = european_caucasian_northern_blond_19
+			2 = european_caucasian_northern_blond_20
+			2 = european_caucasian_northern_blond_21						   
 			5 = european_caucasian_northern_ginger_1
 			5 = european_caucasian_northern_ginger_2
 			3 = european_caucasian_northern_brown_1
@@ -1724,6 +1734,8 @@
 			2 = european_caucasian_northern_blond_17
 			2 = european_caucasian_northern_blond_18
 			2 = european_caucasian_northern_blond_19
+			2 = european_caucasian_northern_blond_20
+			2 = european_caucasian_northern_blond_21						   
 			5 = european_caucasian_northern_ginger_1
 			5 = european_caucasian_northern_ginger_2
 			3 = european_caucasian_northern_brown_1
@@ -1874,6 +1886,8 @@
 			2 = european_caucasian_northern_blond_17
 			2 = european_caucasian_northern_blond_18
 			2 = european_caucasian_northern_blond_19
+			2 = european_caucasian_northern_blond_20
+			2 = european_caucasian_northern_blond_21						   
 			5 = european_caucasian_northern_ginger_1
 			5 = european_caucasian_northern_ginger_2
 			3 = european_caucasian_northern_brown_1

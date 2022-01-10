@@ -1284,6 +1284,12 @@
 			2 = asian_tocharian_13
 			2 = asian_tocharian_14 
 			2 = asian_tocharian_15
+			2 = asian_tocharian_16
+			2 = asian_tocharian_17
+			2 = asian_tocharian_18
+			2 = asian_tocharian_19
+			2 = asian_tocharian_20
+			2 = asian_tocharian_21			 
 			2 = asian_turkic_1_western
 			2 = asian_turkic_2_western
 			2 = asian_turkic_3_western
@@ -1584,8 +1590,7 @@
 			2 = iranian_afghan_47
 			2 = iranian_afghan_48
 			2 = iranian_afghan_49
-			2 = iranian_afghan_50			 
-			2 = iranian_persian_afghan_6							  
+			2 = iranian_afghan_50			 						  
 		}
 
 		mercenary_names = {

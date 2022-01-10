@@ -1,18 +1,18 @@
 ﻿latin_group = {
-	graphical_cultures = {
-		latin_group_coa_gfx
-		western_coa_gfx
-		mediterranean_building_gfx
-		italian_clothing_gfx
-		western_unit_gfx
-	}
+
 	mercenary_names = {
 		{ name = "mercenary_company_bull" coat_of_arms = "mc_bull" }
 	}
 
 
 	maltese = {
-		
+		graphical_cultures = {
+			latin_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}		
 		color = { 0.3 0.6 0.3 }
 
 		cadet_dynasty_names = {
@@ -163,7 +163,13 @@
 		}
 	}
 	neapolitan = {
-		
+	graphical_cultures = {
+			latin_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}			
 		color = { 0.8 0.6 0.15 }
 
 		cadet_dynasty_names = {
@@ -304,7 +310,13 @@
 	}
 	
 	tuscan = {
-	
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}			
 		color = { 0.6 0.1 0.1 }
 
 		cadet_dynasty_names = {
@@ -524,7 +536,13 @@
 	}
 	
 	dalmatian = {
-	
+	graphical_cultures = {
+			latin_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
+			byzantine_clothing_gfx
+			eastern_unit_gfx
+		}		
 		color = { 0.75 0.75 0.6 }
 
 		cadet_dynasty_names = {
@@ -689,7 +707,13 @@
 	}
 	
 	venetian = {
-	
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}		
 		color = { 0.2 0.6 1.0 }
 
 		cadet_dynasty_names = {
@@ -882,7 +906,13 @@
 	}
 	
 	ligurian = {
-	
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}		
 		color = { 0.6 0.9 0.5 }
 
 		cadet_dynasty_names = {
@@ -1082,7 +1112,13 @@
 	}
 	
 	italian = {
-	
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}	
 		color = { 0.95 0.95 0.75 }
 
 		cadet_dynasty_names = {
@@ -1303,9 +1339,12 @@
 	
 	roman = {	
 		graphical_cultures = {
+			latin_group_coa_gfx
+			western_coa_gfx
+			mediterranean_building_gfx
 			byzantine_clothing_gfx
 			eastern_unit_gfx
-		}
+		}		
 		
 		color = { 0.8 0.1 0.1 }
 
@@ -1693,6 +1732,13 @@
 	}
 
 	cisalpine = {
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}	
 	
 		color = { 0.95 0.95 0.55 }
 
@@ -1911,7 +1957,13 @@
 	}
 
 	sardinian = {
-		
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}	
 		color = { 0.9 0.9 0.3 }
 
 		cadet_dynasty_names = {
@@ -2137,7 +2189,13 @@
 	}
 
 	sicilian = {
-		
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}	
 		color = { 0.65 0.65 0.2 }
 
 		cadet_dynasty_names = {
@@ -2379,7 +2437,13 @@
 	}
 
 	lombard = {
-		
+	graphical_cultures = {
+		latin_group_coa_gfx
+		western_coa_gfx
+		mediterranean_building_gfx
+		italian_clothing_gfx
+		western_unit_gfx
+	}	
 		color = { 0.8 0.8 0.5 }
 
 		cadet_dynasty_names = {

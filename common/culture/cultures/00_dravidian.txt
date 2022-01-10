@@ -480,242 +480,68 @@
 		}
 	}
 	
-	brahui = { # Dravidian 
+	brahui = { # relict Dravidian population in Pakistan/Afghanistan
 		
-		color = { 1.0 0.5 0.4 }
+		color = { 0.85 0.82 0.25 }
 
 		cadet_dynasty_names = {
-			"dynn_Cinkaiariyan"
-			"dynn_Aryacakravarti"
-			"dynn_Kulasekhara"
-			"dynn_Samoothiri"
-			"dynn_Perumadappu"
-			"dynn_Kadava"
-			{ "dynn_Paraiyar" }
-			{ "dynn_Vishwakarma" }
-			{ "dynn_Aachari" }
-			{ "dynn_Konar" }
-			{ "dynn_Idaiyar" }
-			{ "dynn_Reddiar" }
-			{ "dynn_Udayar" }
-			{ "dynn_Yadhavar" }
-			{ "dynn_Iyer" }
-			{ "dynn_Iyengar" }
-			{ "dynn_Pillai" }
-			{ "dynn_Mudaliar" }
-			{ "dynn_Thevar" }
-			{ "dynn_Nadar" }
-			{ "dynn_Chettiar" }
-			{ "dynn_Gounder" }
-			{ "dynn_Naicker" }
-			{ "dynn_Bai" }
-			{ "dynn_Cavarai" }
-			{ "dynn_Chandran" }
-			{ "dynn_Chetti" }
-			{ "dynn_Chettiar" }
-			{ "dynn_Chaudary" }
-			{ "dynn_Deva" }
-			{ "dynn_Devi" }
-			{ "dynn_Gopal" }
-			{ "dynn_Jaffna" }
-			{ "dynn_Kalla" }
-			{ "dynn_Kallan" }
-			{ "dynn_Kannan" }
-			{ "dynn_Kavarai" }
-			{ "dynn_Krishna" }
-			{ "dynn_Kumari" }
-			{ "dynn_Lakshmi" }
-			{ "dynn_Mahadevan" }
-			{ "dynn_Mudaliar" }
-			{ "dynn_Narayanan" }
-			{ "dynn_Odda" }
-			{ "dynn_Oddai" }
-			{ "dynn_Oddar" }
-			{ "dynn_Oppara" }
-			{ "dynn_Padaiyachi" }
-			{ "dynn_Padiachy" }
-			{ "dynn_Paraiya" }
-			{ "dynn_Prasad" }
-			{ "dynn_Radhakrishnan" }
-			{ "dynn_Raj" }
-			{ "dynn_Raja" }
-			{ "dynn_Rajan" }
-			{ "dynn_Raju" }
-			{ "dynn_Ram" }
-			{ "dynn_Ramachandran" }
-			{ "dynn_Ramakrishnan" }
-			{ "dynn_Ramamurthy" }
-			{ "dynn_Ramanathan" }
-			{ "dynn_Reddy" }
-			{ "dynn_Seelan" }
-			{ "dynn_Shankar" }
-			{ "dynn_Srinivasan" }
-			{ "dynn_Suresh" }
-			{ "dynn_Thondan" }
-			{ "dynn_Uppara" }
-			{ "dynn_Vellala" }
-			{ "dynn_Venkatesh" }
-			{ "dynn_Wappara" }
-			{ "dynn_Wodda" }			
-			{ "dynnp_of" "dynn_Udayavara" }
-			{ "dynnp_of" "dynn_Mangalur" }
-			{ "dynnp_of" "dynn_Kannanur" }
-			{ "dynnp_of" "dynn_Calicut" }
-			{ "dynnp_of" "dynn_Malappuram" }
-			{ "dynnp_of" "dynn_Palakkad" }
-			{ "dynnp_of" "dynn_Mahoyadapuram" }
-			{ "dynnp_of" "dynn_Kunjakari" }
-			{ "dynnp_of" "dynn_Kottayam" }
-			{ "dynnp_of" "dynn_Kollam" }
-			{ "dynnp_of" "dynn_Vizhinjam" }
-			{ "dynnp_of" "dynn_Kottar" }
-			{ "dynnp_of" "dynn_Tirunelveli" }
-			{ "dynnp_of" "dynn_Kayal" }
-			{ "dynnp_of" "dynn_Korkai" }
-			{ "dynnp_of" "dynn_Sivakasi" }
-			{ "dynnp_of" "dynn_Madurai" }
-			{ "dynnp_of" "dynn_Virudhukkalvetti" }
-			{ "dynnp_of" "dynn_Rameshvaram" }
-			{ "dynnp_of" "dynn_Sivaganga" }
-			{ "dynnp_of" "dynn_Uraiyur" }
-			{ "dynnp_of" "dynn_Dindigul" }
-			{ "dynnp_of" "dynn_Karavur" }
-			{ "dynnp_of" "dynn_Tiruppur" }
-			{ "dynnp_of" "dynn_Kovai" }
-			{ "dynnp_of" "dynn_Tenkasi" }
-			{ "dynnp_of" "dynn_Tagadur" }
-			{ "dynnp_of" "dynn_Kelrayan" }
-			{ "dynnp_of" "dynn_Srirangam" }
-			{ "dynnp_of" "dynn_Tanjavur" }
-			{ "dynnp_of" "dynn_Nagapattinam" }
-			{ "dynnp_of" "dynn_Kannanur" }
-			{ "dynnp_of" "dynn_Tirukoilur" }
-			{ "dynnp_of" "dynn_Jinji" }
-			{ "dynnp_of" "dynn_Uttaramerur" }
-			{ "dynnp_of" "dynn_Tiruvannamalai" }
-			{ "dynnp_of" "dynn_Kudalasangama" }
-			{ "dynnp_of" "dynn_Kuvalala" }
-			{ "dynnp_of" "dynn_Muluvagil" }
-			{ "dynnp_of" "dynn_Takkaloma" }
-			{ "dynnp_of" "dynn_Mamallapuram" }
-			{ "dynnp_of" "dynn_Kanchipuram" }
+			"dynn_Achmadzai"
+			"dynn_Gurguari"
+			"dynn_Iltazai"
+			"dynn_Kalandari"
+			"dynn_Kambrani"
+			"dynn_Mirwari"
+			"dynn_Rodeni"
+			"dynn_Sumalari"
+			"dynn_Bizanjar"
+			"dynn_Haruni"
+			"dynn_Muhammad_Hasni"
+			"dynn_Mengal"
+			"dynn_Nichari"
+			"dynn_Pandrani"
+			"dynn_Sajdi"
+			"dynn_Zahri"
+			"dynn_Bangulzai"
+			"dynn_Kurd"
+			"dynn_Lahri"
+			"dynn_Langav"
+			"dynn_Muhammad_Shahi"
+			"dynn_Raisani"
+			"dynn_Rustamzai"
+			"dynn_Sarpora"
+			"dynn_Satakzai"
+			"dynn_Shahwani"
+			"dynn_Zagar_Mengal"
 		}
 
 		dynasty_names = {
-			"dynn_Cinkaiariyan"
-			"dynn_Aryacakravarti"
-			"dynn_Kulasekhara"
-			"dynn_Samoothiri"
-			"dynn_Perumadappu"
-			"dynn_Kadava"
-			{ "dynn_Paraiyar" }
-			{ "dynn_Vishwakarma" }
-			{ "dynn_Aachari" }
-			{ "dynn_Konar" }
-			{ "dynn_Idaiyar" }
-			{ "dynn_Reddiar" }
-			{ "dynn_Udayar" }
-			{ "dynn_Yadhavar" }
-			{ "dynn_Iyer" }
-			{ "dynn_Iyengar" }
-			{ "dynn_Pillai" }
-			{ "dynn_Mudaliar" }
-			{ "dynn_Thevar" }
-			{ "dynn_Nadar" }
-			{ "dynn_Chettiar" }
-			{ "dynn_Gounder" }
-			{ "dynn_Naicker" }			
-			{ "dynn_Bai" }
-			{ "dynn_Cavarai" }
-			{ "dynn_Chandran" }
-			{ "dynn_Chetti" }
-			{ "dynn_Chettiar" }
-			{ "dynn_Chaudary" }
-			{ "dynn_Deva" }
-			{ "dynn_Devi" }
-			{ "dynn_Gopal" }
-			{ "dynn_Jaffna" }
-			{ "dynn_Kalla" }
-			{ "dynn_Kallan" }
-			{ "dynn_Kannan" }
-			{ "dynn_Kavarai" }
-			{ "dynn_Krishna" }
-			{ "dynn_Kumari" }
-			{ "dynn_Lakshmi" }
-			{ "dynn_Mahadevan" }
-			{ "dynn_Mudaliar" }
-			{ "dynn_Narayanan" }
-			{ "dynn_Odda" }
-			{ "dynn_Oddai" }
-			{ "dynn_Oddar" }
-			{ "dynn_Oppara" }
-			{ "dynn_Padaiyachi" }
-			{ "dynn_Padiachy" }
-			{ "dynn_Paraiya" }
-			{ "dynn_Prasad" }
-			{ "dynn_Radhakrishnan" }
-			{ "dynn_Raj" }
-			{ "dynn_Raja" }
-			{ "dynn_Rajan" }
-			{ "dynn_Raju" }
-			{ "dynn_Ram" }
-			{ "dynn_Ramachandran" }
-			{ "dynn_Ramakrishnan" }
-			{ "dynn_Ramamurthy" }
-			{ "dynn_Ramanathan" }
-			{ "dynn_Reddy" }
-			{ "dynn_Seelan" }
-			{ "dynn_Shankar" }
-			{ "dynn_Srinivasan" }
-			{ "dynn_Suresh" }
-			{ "dynn_Thondan" }
-			{ "dynn_Uppara" }
-			{ "dynn_Vellala" }
-			{ "dynn_Venkatesh" }
-			{ "dynn_Wappara" }
-			{ "dynn_Wodda" }			
-			{ "dynnp_of" "dynn_Udayavara" }
-			{ "dynnp_of" "dynn_Mangalur" }
-			{ "dynnp_of" "dynn_Kannanur" }
-			{ "dynnp_of" "dynn_Calicut" }
-			{ "dynnp_of" "dynn_Malappuram" }
-			{ "dynnp_of" "dynn_Palakkad" }
-			{ "dynnp_of" "dynn_Mahoyadapuram" }
-			{ "dynnp_of" "dynn_Kunjakari" }
-			{ "dynnp_of" "dynn_Kottayam" }
-			{ "dynnp_of" "dynn_Kollam" }
-			{ "dynnp_of" "dynn_Vizhinjam" }
-			{ "dynnp_of" "dynn_Kottar" }
-			{ "dynnp_of" "dynn_Tirunelveli" }
-			{ "dynnp_of" "dynn_Kayal" }
-			{ "dynnp_of" "dynn_Korkai" }
-			{ "dynnp_of" "dynn_Sivakasi" }
-			{ "dynnp_of" "dynn_Madurai" }
-			{ "dynnp_of" "dynn_Virudhukkalvetti" }
-			{ "dynnp_of" "dynn_Rameshvaram" }
-			{ "dynnp_of" "dynn_Sivaganga" }
-			{ "dynnp_of" "dynn_Uraiyur" }
-			{ "dynnp_of" "dynn_Dindigul" }
-			{ "dynnp_of" "dynn_Karavur" }
-			{ "dynnp_of" "dynn_Tiruppur" }
-			{ "dynnp_of" "dynn_Kovai" }
-			{ "dynnp_of" "dynn_Tenkasi" }
-			{ "dynnp_of" "dynn_Tagadur" }
-			{ "dynnp_of" "dynn_Kelrayan" }
-			{ "dynnp_of" "dynn_Srirangam" }
-			{ "dynnp_of" "dynn_Tanjavur" }
-			{ "dynnp_of" "dynn_Nagapattinam" }
-			{ "dynnp_of" "dynn_Kannanur" }
-			{ "dynnp_of" "dynn_Tirukoilur" }
-			{ "dynnp_of" "dynn_Jinji" }
-			{ "dynnp_of" "dynn_Uttaramerur" }
-			{ "dynnp_of" "dynn_Tiruvannamalai" }
-			{ "dynnp_of" "dynn_Kudalasangama" }
-			{ "dynnp_of" "dynn_Kuvalala" }
-			{ "dynnp_of" "dynn_Muluvagil" }
-			{ "dynnp_of" "dynn_Takkaloma" }
-			{ "dynnp_of" "dynn_Mamallapuram" }
-			{ "dynnp_of" "dynn_Kanchipuram" }
+			"dynn_Achmadzai"
+			"dynn_Gurguari"
+			"dynn_Iltazai"
+			"dynn_Kalandari"
+			"dynn_Kambrani"
+			"dynn_Mirwari"
+			"dynn_Rodeni"
+			"dynn_Sumalari"
+			"dynn_Bizanjar"
+			"dynn_Haruni"
+			"dynn_Muhammad_Hasni"
+			"dynn_Mengal"
+			"dynn_Nichari"
+			"dynn_Pandrani"
+			"dynn_Sajdi"
+			"dynn_Zahri"
+			"dynn_Bangulzai"
+			"dynn_Kurd"
+			"dynn_Lahri"
+			"dynn_Langav"
+			"dynn_Muhammad_Shahi"
+			"dynn_Raisani"
+			"dynn_Rustamzai"
+			"dynn_Sarpora"
+			"dynn_Satakzai"
+			"dynn_Shahwani"
+			"dynn_Zagar_Mengal"
 		}
 		
 		male_names = {
@@ -765,21 +591,135 @@
 		dynasty_of_location_prefix = "dynnp_of"
 		
 		ethnicities = {
-			2 = indian_dravidian_1
-			2 = indian_dravidian_2
-			2 = indian_dravidian_3
-			2 = indian_dravidian_4
-			2 = indian_dravidian_5
-			2 = indian_dravidian_6
-			2 = indian_dravidian_7
-			2 = indian_dravidian_8
-			2 = indian_dravidian_9
-			2 = indian_dravidian_10
-			2 = indian_dravidian_11
-			2 = indian_dravidian_12
-			2 = indian_dravidian_13
-			2 = indian_dravidian_14
-			2 = indian_dravidian_15
+			10 = iranian_baloch_1
+			10 = iranian_baloch_2
+			10 = iranian_baloch_3
+			10 = iranian_baloch_4
+			10 = iranian_baloch_5
+			10 = iranian_baloch_6
+			10 = iranian_baloch_7
+			10 = iranian_baloch_8
+			10 = iranian_baloch_9
+			10 = iranian_baloch_10
+			2 = iranian_afghan_1
+			2 = iranian_afghan_2
+			2 = iranian_afghan_3
+			2 = iranian_afghan_4
+			2 = iranian_afghan_5
+			2 = iranian_afghan_6
+			2 = iranian_afghan_7
+			2 = iranian_afghan_8
+			2 = iranian_afghan_9
+			2 = iranian_afghan_10
+			2 = iranian_afghan_11
+			2 = iranian_afghan_12
+			2 = iranian_afghan_13
+			2 = iranian_afghan_14
+			2 = iranian_afghan_15
+			2 = iranian_afghan_16
+			2 = iranian_afghan_17
+			2 = iranian_afghan_18
+			2 = iranian_afghan_19
+			2 = iranian_afghan_20
+			2 = iranian_afghan_21
+			2 = iranian_afghan_22
+			2 = iranian_afghan_23
+			2 = iranian_afghan_24
+			2 = iranian_afghan_25
+			2 = iranian_afghan_26
+			2 = iranian_afghan_27
+			2 = iranian_afghan_28
+			2 = iranian_afghan_29
+			2 = iranian_afghan_30
+			2 = iranian_afghan_31
+			2 = iranian_afghan_32
+			2 = iranian_afghan_33
+			2 = iranian_afghan_34
+			2 = iranian_afghan_35
+			2 = iranian_afghan_36
+			2 = iranian_afghan_37
+			2 = iranian_afghan_38
+			2 = iranian_afghan_39
+			2 = iranian_afghan_40
+			2 = iranian_afghan_41
+			2 = iranian_afghan_42
+			2 = iranian_afghan_43
+			2 = iranian_afghan_44
+			2 = iranian_afghan_45
+			2 = iranian_afghan_46
+			2 = iranian_afghan_47
+			2 = iranian_afghan_48
+			2 = iranian_afghan_49
+			2 = iranian_afghan_50
+			2 = iranian_persian_afghan_6
+			4 = indian_kashmiri_1
+			4 = indian_kashmiri_2
+			4 = indian_kashmiri_3
+			4 = indian_kashmiri_4
+			4 = indian_kashmiri_5
+			4 = indian_kashmiri_6
+			4 = indian_kashmiri_7
+			4 = indian_kashmiri_8
+			4 = indian_kashmiri_9
+			4 = indian_kashmiri_10
+			4 = indian_kashmiri_11
+			4 = indian_kashmiri_12
+			4 = indian_kashmiri_13
+			2 = indian_punjabi_1
+			2 = indian_punjabi_2
+			2 = indian_punjabi_3
+			2 = indian_punjabi_4
+			2 = indian_northern_1
+			2 = indian_northern_2
+			2 = indian_northern_3
+			2 = indian_northern_4
+			2 = indian_northern_5
+			2 = indian_northern_6
+			2 = indian_northern_7
+			2 = indian_northern_8
+			2 = indian_northern_9
+			2 = indian_northern_10
+			2 = indian_northern_11
+			2 = indian_northern_12
+			2 = indian_northern_13
+			2 = indian_northern_14
+			2 = indian_northern_15
+			2 = indian_northern_18
+			2 = indian_northern_19
+			2 = indian_northern_20
+			2 = indian_northern_21
+			2 = indian_northern_22
+			2 = indian_northern_23
+			2 = indian_northern_24
+			2 = indian_northern_25
+			2 = indian_northern_26
+			2 = indian_northern_27
+			2 = indian_rajput_1
+			2 = indian_rajput_2
+			2 = indian_rajput_3
+			2 = indian_rajput_4
+			2 = indian_rajput_5
+			2 = indian_rajput_6
+			2 = indian_rajput_7
+			2 = indian_rajput_8
+			2 = indian_rajput_9
+			2 = indian_rajput_10
+			2 = indian_rajput_11
+			2 = indian_rajput_12
+			2 = indian_rajput_13
+			2 = indian_rajput_14
+			2 = indian_rajput_15
+			2 = indian_rajput_16
+			2 = indian_rajput_17
+			2 = indian_rajput_18
+			2 = indian_rajput_19
+			2 = indian_rajput_20
+			2 = indian_rajput_21
+			2 = indian_rajput_22
+			2 = indian_rajput_23
+			2 = indian_rajput_24
+			2 = indian_rajput_25
+			2 = indian_rajput_26
 		}
 	}
 
